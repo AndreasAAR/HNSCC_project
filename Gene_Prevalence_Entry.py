@@ -3,13 +3,12 @@ patient_number_cases = 17
 patient_number_controls = 18
 import numpy as np
 
-class Gene_Entry:
-  def __init__(self, id, number_case, number_control):
+class Gene_Prevalence_Entry:
+  def __init__(self, id, name ,number_case, number_control):
     self.id = id
     self.number_case = number_case if number_case != None else 0
     self.number_control = number_control if number_control != None else 0
-    self.name = ng.get_ensembl_name(id)
-
+    self.name = name
     if number_case == None:
       number_case = 0
     if number_control == None:
