@@ -73,7 +73,7 @@ plt.rcParams['font.sans-serif'] = 'Helvetica'
 
 # Finding the best position for legends and putting it
 plt.legend(loc='best')
-plt.savefig('Graphs/Mutation_Prevalence.png')
+plt.savefig('Graphs/Mutation_Prevalence.png', dpi = 100)
 plt.show()
 
 
