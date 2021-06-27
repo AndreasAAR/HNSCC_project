@@ -1,9 +1,7 @@
 import pandas as pd
-from collections import Counter
 from Cutoff import *
 from Gene_Prevalence_Entry import *
-import ice as ic
-import Name_getter
+from Deprecated import Name_getter
 
 df = pd.read_csv('Resources/Secret_Data/all_genes.csv', sep=';')
 case_df = df.iloc[:,:17]

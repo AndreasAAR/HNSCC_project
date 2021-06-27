@@ -6,9 +6,9 @@ from collections import Counter
 import numpy as np
 
 
-case_df = pd.read_csv('case.unique-gene-variants-all.tsv', sep='\t')
-normal_df = pd.read_csv('case.unique-gene-variants-all.tsv', sep='\t')
-impacts = set(list(normal_df.IMPACT.unique()))
+case_df = pd.read_csv('Resources/Base_Data/case.unique-gene-variants-all.tsv', sep='\t')
+control_df = pd.read_csv('Resources/Base_Data/control.unique-gene-variants-all.tsv', sep='\t')
+impacts = set(list(control_df.IMPACT.unique()))
 
 def ratio(target,total):
     total = sum(total.values)
@@ -22,4 +22,4 @@ def print_impact_counts(dataframe,name):
     ratio_df.to_csv("Resources/Base_Data/"+ name)
 
 print_impact_counts(case_df,"case_gene_mutations.csv")
-print_impact_counts(normal_df,"normal_gene_mutations.csv")
+print_impact_counts(control_df, "control_gene_mutations.csv")

@@ -1,4 +1,3 @@
-import Name_getter as ng
 patient_number_cases = 17
 patient_number_controls = 18
 import numpy as np

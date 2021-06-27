@@ -11,7 +11,6 @@ prefix = "/lookup/id/"
 postfix ="?"
 
 #Not needed any longer as all names found in separate file in dataset
-
 df = pd.read_csv('Resources/Secret_Data/all_genes.csv', sep=';')
 
 #def write_cutoff_list(data_frame,cutoff,list_name):
