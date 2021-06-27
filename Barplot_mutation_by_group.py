@@ -41,13 +41,13 @@ ind = np.arange(N)
 plt.figure(figsize=(10,5))
 
 # Width of a bar
-width = 0.2
+width = 0.25
 
 
 
 # Plotting
 plt.bar(ind, green_bar, width, label='Cases',color=(0.2, 0.4, 0.6, 0.6))
-plt.bar(ind + (width), dark_green_bar , width, label='Controls',color=(0.2, 0.6, 0.6, 0.6))
+plt.bar(ind + (width), dark_green_bar , width, label='Controls',color=(0.2, 0.7, 0.6, 0.6))
 
 plt.xlabel('Gene name')
 plt.ylabel('Percentage mutated')
@@ -73,9 +73,10 @@ plt.rcParams['font.sans-serif'] = 'Helvetica'
 
 # Finding the best position for legends and putting it
 plt.legend(loc='best')
+plt.savefig('Graphs/Mutation_Prevalence.png')
 plt.show()
 
-plt.savefig('Graphs/Mutation_Prevalence.png',dpi=400)
+
 
 if False:
 
