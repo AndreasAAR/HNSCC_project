@@ -6,4 +6,4 @@ how to work with your sequencing data, using pandas dataframes, and getting gene
 from databanks via API, in this case ENSEMBL.
 Later on I will share the resulting publication and graph and modelling techniques.
 :panda_face: :snake:
-![Graph of mutation prevalence for genes](Graphs/Mutation_Prevalence.png "Mutation Prevalence between cases and controls")
+![Graph of mutation prevalence for genes](./Graphs/Mutation_Prevalence.png "Mutation Prevalence between cases and controls")
