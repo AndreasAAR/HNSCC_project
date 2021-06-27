@@ -1,11 +1,8 @@
 import pandas as pd
-from collections import Counter
-from Cutoff import *
-from Gene_Prevalence_Entry import *
+from Setup_Scripts.Cutoff import *
 import Name_getter  as ng
 import requests, sys
-import json
-import numpy as np
+
 server = "https://rest.ensembl.org"
 prefix = "/lookup/id/"
 postfix ="?"

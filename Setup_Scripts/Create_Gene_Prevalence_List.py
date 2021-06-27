@@ -23,5 +23,5 @@ for index,value in all_freq.items():
                 name = name if name else "Name not found"
                 gene_entries[index] = Gene_Prevalence_Entry(id = index, name = name, number_case = case_freq.get(index), number_control = control_freq.get(index))
 
-print_entries(gene_entries, "Resources/Base_Data/Gene_Prevalences.csv")
+print_entries(gene_entries, "../Resources/Base_Data/Gene_Prevalences.csv")
 
