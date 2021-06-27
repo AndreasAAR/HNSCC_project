@@ -10,6 +10,8 @@ server = "https://rest.ensembl.org"
 prefix = "/lookup/id/"
 postfix ="?"
 
+#Not needed any longer as all names found in separate file in dataset
+
 df = pd.read_csv('Resources/Secret_Data/all_genes.csv', sep=';')
 
 #def write_cutoff_list(data_frame,cutoff,list_name):
@@ -20,7 +22,7 @@ for id in all_freq.keys():
     name = ng.get_ensembl_name(id)
     id_name[id] = name
 
-textfile = open("Resources/Base_Data/All_names.csv", "w")
+textfile = open("../Resources/Base_Data/All_names.csv", "w")
 textfile.write("id,name"+"\n")
 for id, name in id_name.items():
     textfile.write(str(id) + ","
