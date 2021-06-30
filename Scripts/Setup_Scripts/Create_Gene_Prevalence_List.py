@@ -1,7 +1,7 @@
 import pandas as pd
 from Cutoff import *
 from Gene_Prevalence_Entry import *
-from Deprecated import Name_getter
+from Scripts.Deprecated import Name_getter
 
 df = pd.read_csv('Resources/Secret_Data/all_genes.csv', sep=';')
 case_df = df.iloc[:,:17]
@@ -23,5 +23,5 @@ for index,value in all_freq.items():
                 name = name if name else "Name not found"
                 gene_entries[index] = Gene_Prevalence_Entry(id = index, name = name, number_case = case_freq.get(index), number_control = control_freq.get(index))
 
-print_entries(gene_entries, "../Resources/Base_Data/Gene_Prevalences.csv")
+print_entries(gene_entries, "../../Resources/Base_Data/Gene_Prevalences.csv")
 

@@ -3,9 +3,13 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
+# https://opensource.com/article/20/4/plot-data-
+# Create plotly diagram to show off too!
+
 prevalence_df = pd.read_csv('Resources/Base_Data/Gene_Prevalences.csv')
 prevalence_df.columns=prevalence_df.columns.str.strip()
-graph_df = prevalence_df.sort_values(by=['absolute_overrepresentation'], ascending= False).iloc[1:6,:]
+graph_df = prevalence_df.sort_values(by=['absolute_overrepresentation'], ascending= False).iloc[1:11,:]
+print(graph_df[['name','case_percentage','id']])
 print(graph_df.columns)
 top_case = graph_df[['name','case_percentage']]
 top_control = graph_df[['name','control_percentage']]
@@ -23,7 +27,7 @@ control_number = top_number_control['num_mutations_control'].to_list()
 
 
 # Numbers of pairs of bars you want
-N = 5
+N = 10
 
 # Data on X-axis
 
@@ -41,7 +45,7 @@ ind = np.arange(N)
 plt.figure(figsize=(10,5))
 
 # Width of a bar
-width = 0.25
+width = 0.20
 
 
 
