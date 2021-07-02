@@ -1,4 +1,4 @@
-id,name,number_case,number_control,case_control_ratio
+GENE_ID,GENE,number_case,number_control,case_control_ratio
 ENSG00000000457,SCYL3,4,0,4
 ENSG00000000460,C1orf112,5,0,5
 ENSG00000002726,AOC1,17,18,-0.06
