@@ -1,7 +1,7 @@
 import pandas as pd
-from Cutoff import *
+from Scripts.Tool_Scripts.Cutoff import *
 from Gene_Prevalence_Entry import *
-from Scripts.Setup_Scripts import Name_getter
+from Scripts.Tool_Scripts import Name_getter
 
 df = pd.read_csv('../../Resources/Source_Data/somatic_genes.csv', sep=';')
 case_df = df.iloc[:,:17]
@@ -18,7 +18,7 @@ gene_entries = {}
 name_getter = Name_getter.Name_getter()
 
 for index,value in all_freq.items():
-        if case_freq.get(index) is not None or control_freq.get(index) is not None:
+        if "ENSG" in str(index) and (case_freq.get(index) is not None or control_freq.get(index) is not None ) :
                 name = name_getter.get_name(index)
                 gene_entries[index] = Gene_Prevalence_Entry(id = index, name = name, number_case = case_freq.get(index), number_control = control_freq.get(index))
 

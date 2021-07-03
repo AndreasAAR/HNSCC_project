@@ -1,5 +1,6 @@
 import pandas as pd
-import Get_ENSEMBL_API_names as ge
+from Scripts.Tool_Scripts import Get_ENSEMBL_API_names as ge
+
 
 class Name_getter():
     # API calls for gene name list moved

@@ -9,10 +9,6 @@ server = "https://rest.ensembl.org"
 ext = '/lookup/id/'
 postfix=  "?"
 
-
-
-
-
 #Gets name from ensembl
 def get_ensembl_name(gene_id):
     name = "name not found"
@@ -25,6 +21,9 @@ def get_ensembl_name(gene_id):
             decoded = r.json()
             new_name = decoded.get("display_name")
             name = new_name if new_name else decoded.get("description")
+            if name:
+                name = name.replace(",","_")
+                name = name.replace(" ", "_")
             name = new_name if new_name else name
             return name
         except requests.exceptions.HTTPError:

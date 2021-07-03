@@ -22,7 +22,7 @@ class Gene_Prevalence_Entry:
 
 def print_entries(entries,file_name):
   textfile = open(file_name, "w")
-  textfile.write("id,name,number_case,number_control,case_fold, control_fold,"+
+  textfile.write("id,name,num_mutations_case,num_mutations_control,case_fold, control_fold,"+
                  "case_percentage,control_percentage, absolute_overrepresentation"+"\n")
   for name, entry in entries.items():
     textfile.write(str(entry.id) + ","

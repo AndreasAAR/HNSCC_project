@@ -2,5 +2,23 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/bioperl-live" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/ensembl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/ensembl-compara" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/ensembl-funcgen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/ensembl-git-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/ensembl-io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/ensembl-metadata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/ensembl-taxonomy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/ensembl-variation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_Module/src/bioperl-live" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_Module/src/ensembl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_Module/src/ensembl-compara" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_Module/src/ensembl-funcgen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_Module/src/ensembl-git-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_Module/src/ensembl-io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_Module/src/ensembl-metadata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_Module/src/ensembl-taxonomy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_Module/src/ensembl-variation" vcs="Git" />
   </component>
 </project>
