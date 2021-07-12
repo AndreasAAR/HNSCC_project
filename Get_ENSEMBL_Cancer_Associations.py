@@ -5,11 +5,6 @@ ext = "/phenotype/gene/homo_sapiens/ENSG00000003393?include_associated=1"
 
 r = requests.get(server + ext, headers={"Content-Type": "application/json"})
 
-
-
-
-
-
 if not r.ok:
     r.raise_for_status()
     sys.exit()

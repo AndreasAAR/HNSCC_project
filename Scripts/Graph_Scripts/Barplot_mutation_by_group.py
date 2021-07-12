@@ -54,8 +54,7 @@ plt.bar(ind, green_bar, width, label='Cases',color=(0.2, 0.4, 0.6, 0.6))
 plt.bar(ind + (width), dark_green_bar , width, label='Controls',color=(0.2, 0.7, 0.6, 0.6))
 
 plt.xlabel('Gene name')
-plt.ylabel('Percentage mutated')
-plt.title('Percentage carrying gene mutation')
+plt.title('Percentage of cohort per group carrying gene mutation')
 
 # xticks()
 # First argument - A list of positions at which ticks should be placed
