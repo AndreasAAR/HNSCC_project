@@ -2,9 +2,11 @@ import requests, sys
 
 #Hsa = human KEGG_ID
 #
-server = "http://rest.kegg.jp/conv/hsa/genes"
+server = "http://rest.kegg.jp/link/pathway/hsa:"
 
-
+#human genes linked from each of the KEGG pathways
+#link/pathway/hsa:10458+ece:Z5100
+# KEGG pathways linked from a human gene and an E. coli O157 gene
 
 #Experimental KgID ENST00000000233.10
 
@@ -13,12 +15,12 @@ def get_KEGG_pathway(gene_id):
     name = "name not found"
     if True: #change to true to download new names
         try:
-            r = requests.get(server)
+            r = requests.get(server+gene_id)
+            print(r.text)
             if not r.ok:
                 r.raise_for_status()
                 sys.exit()
-            print(r)
-            #decoded = r.json()
+
             #new_name = decoded.get("display_name")
             #name = new_name if new_name else decoded.get("description")
             #if name:
@@ -33,4 +35,4 @@ def get_KEGG_pathway(gene_id):
     else:
      return name
 
-get_KEGG_pathway("")
+get_KEGG_pathway("160287")

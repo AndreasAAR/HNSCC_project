@@ -1,5 +1,7 @@
 import requests, sys
 
+
+
 server = "https://rest.ensembl.org"
 prefix = "/lookup/id/"
 postfix ="?"

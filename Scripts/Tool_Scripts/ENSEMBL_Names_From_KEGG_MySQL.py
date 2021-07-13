@@ -21,9 +21,10 @@ cursor = db.cursor()
 
 ## defining the Query
 #query = "SHOW columns FROM knownGene"
-query = "SHOW columns FROM kgXref"
+#query = "SHOW columns FROM kgXref"
 #query = "SELECT kgID FROM knownGene, kgXref WHERE kgXref.kgId=knownGene.name LIMIT 10;"
-#query = "SELECT kgID FROM knownGene, kgXref LIMIT 10;"
+query = "SELECT  geneName  FROM wgEncodeGencodeAttrsV37 LIMIT 10;"
+###query = "SELECT kgID FROM Genes LIMIT 10;"
 ## getting records from the table
 cursor.execute(query)
 
