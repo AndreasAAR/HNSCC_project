@@ -17,8 +17,8 @@ def print_impact_counts(dataframe,type,file_name,):
         ratio_df[impact+"_ratio_"+type] = dataframe.apply(lambda x: ratio(x[impact],x[impacts]), axis = 1)
     ratio_df.to_csv("Resources/Intermediary_Data/"+ file_name)
 
-#print_impact_counts(case_df,'case',"case_gene_mutations.csv")
-#print_impact_counts(control_df,'control',"control_gene_mutations.csv")
+# print_impact_counts(case_df,'case',"case_gene_mutations.csv")
+# print_impact_counts(control_df,'control',"control_gene_mutations.csv")
 
 case_df = pd.read_csv('../../Resources/Intermediary_Data/case_gene_mutations.csv')
 control_df = pd.read_csv('../../Resources/Intermediary_Data/control_gene_mutations.csv')
