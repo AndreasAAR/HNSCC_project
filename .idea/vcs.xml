@@ -2,9 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/Bio-DB-HTS" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/Bio-DB-HTS/Bio-DB-HTS" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/htslib" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Scripts/Tool_Scripts/Perl_ENSEMBL_API_Module/src/htslib/htscodecs" vcs="Git" />
   </component>
 </project>

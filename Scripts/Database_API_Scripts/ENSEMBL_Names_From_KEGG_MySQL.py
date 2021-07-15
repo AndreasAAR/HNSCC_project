@@ -38,8 +38,11 @@ def get_kegg_v37_name(ensembl_id):
     else:
         return "name not found"
 
+
+
+
 new_names = [get_kegg_v37_name(id) if gene == 'name not found' else gene for gene, id in zip(id_name.GENE,id_name.GENE_ID)]
-id_name.loc[:,'GENE'] = new_names
+id_name.loc['GENE'] = pd.series(new_names)
 id_name.to_csv("../../Resources/Assisting_Data/name_list_v37_ensembl.csv")
 
 # This will use old ENSEMBL IDs to find the gene names!
