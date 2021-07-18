@@ -1,0 +1,1 @@
+SELECT  geneId,geneName  FROM wgEncodeGencodeAttrsV37lift37 WHERE geneId LIKE list

@@ -36,6 +36,7 @@ df1 = pd.DataFrame()
 # Read in pathways
 pathway_df = pd.read_csv("../../../Resources/Data/Intermediary_Data/GENE_names_to_Pathways_raw.csv")
 # Need to extract all gene names instead of ENSG codes, then find most common pathways in each group.
+all_names = pd.read_csv("../../../Resources/Data/Intermediary_Data/GENE_names_to_Pathways_raw.csv")
 
 # Need to update the name list v37 first so that it contains description
 # and related gene first.
