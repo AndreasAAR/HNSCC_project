@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Here we read the gene prevalence file
-all_mutations_df = pd.read_csv('../../Resources/Base_Data/Somatic_Gene_Prevalences.csv', sep=',')
+all_mutations_df = pd.read_csv('../../Resources/Data/Base_Data/Somatic_Gene_Prevalences.csv', sep=',')
 # print(all_mutations_df.columns)
 no_cases = all_mutations_df['num_mutations_case'] == 0
 no_control = all_mutations_df['num_mutations_control'] == 0
@@ -18,7 +18,6 @@ only_case_df = all_mutations_df[only_case_mutated]
 only_case_df.to_csv('Resources/Intermediary_Data/Somatic_Mutations_only_in_case.csv', sep=',')
 
 # common_all_df = all_mutations_df.loc[[  all_mutations_df && ]]
-
 # df = df[['GENE','GENE_ID']]
 # df = df.drop_duplicates()
 # df.to_csv("Resources/Base_Data/All_names.csv")

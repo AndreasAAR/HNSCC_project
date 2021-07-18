@@ -1,7 +1,7 @@
 import mysql.connector as mysql
 import pandas as pd
 
-name_table = pd.read_csv("../../Resources/Base_Data/name_list.csv")
+name_table = pd.read_csv("../../Resources/Data/Base_Data/name_list.csv")
 
 id_name= name_table[["GENE_ID","GENE"]]
 #print (id_name.head())

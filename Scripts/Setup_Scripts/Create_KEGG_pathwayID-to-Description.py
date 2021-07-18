@@ -1,7 +1,7 @@
 import pandas as pd
 import  numpy as np
 from Scripts.Database_API_Scripts import KEGG_Pathway_Description_Getter as kpdg
-eng_pathway_df = pd.read_csv("../../Resources/Intermediary_Data/GENE_names_to_Pathways_raw.csv",dtype=str)
+eng_pathway_df = pd.read_csv("../../Resources/Data/Intermediary_Data/GENE_names_to_Pathways_raw.csv", dtype=str)
 
 print(eng_pathway_df.head())
 id_name_df = pd.DataFrame(columns =['Pathway_Id'])

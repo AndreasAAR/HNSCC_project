@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Here we read the gene prevalence file
-all_mutations_df = pd.read_csv('../../Resources/Base_Data/Somatic_Gene_Prevalences.csv', sep=',')
+all_mutations_df = pd.read_csv('../../Resources/Data/Base_Data/Somatic_Gene_Prevalences.csv', sep=',')
 print(all_mutations_df.columns)
 case_above_17 = all_mutations_df['num_mutations_case'] == 17
 control_above_18 = all_mutations_df['num_mutations_control'] == 18

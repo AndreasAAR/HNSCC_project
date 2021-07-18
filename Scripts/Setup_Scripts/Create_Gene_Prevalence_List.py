@@ -3,7 +3,7 @@ from Scripts.Deprecated.Cutoff import *
 from Gene_Prevalence_Entry import *
 from Scripts.Database_API_Scripts import ENSEMBL_Name_getter
 
-df = pd.read_csv('../../Resources/Source_Data/somatic_genes.csv', sep=';')
+df = pd.read_csv('../../Resources/Data/Source_Data/somatic_genes.csv', sep=';')
 case_df = df.iloc[:,:17]
 control_df = df.iloc[:,17:]
 
@@ -22,5 +22,5 @@ for index,value in all_freq.items():
                 name = name_getter.get_name(index)
                 gene_entries[index] = Gene_Prevalence_Entry(id = index, name = name, number_case = case_freq.get(index), number_control = control_freq.get(index))
 
-print_entries(gene_entries, "../../Resources/Base_Data/Somatic_Gene_Prevalences.csv")
+print_entries(gene_entries, "../../Resources/Data/Base_Data/Somatic_Gene_Prevalences.csv")
 

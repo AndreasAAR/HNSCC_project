@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 
 
-case_df = pd.read_csv('../../Resources/Base_Data/case.unique-gene-variants-all.tsv', sep='\t')
-control_df = pd.read_csv('../../Resources/Base_Data/control.unique-gene-variants-all.tsv', sep='\t')
+case_df = pd.read_csv('../../Resources/Data/Base_Data/case.unique-gene-variants-all.tsv', sep='\t')
+control_df = pd.read_csv('../../Resources/Data/Base_Data/control.unique-gene-variants-all.tsv', sep='\t')
 impacts = set(list(control_df.IMPACT.unique()))
 
 def ratio(target,total):
@@ -20,7 +20,7 @@ def print_impact_counts(dataframe,type,file_name,):
 # print_impact_counts(case_df,'case',"case_gene_mutations.csv")
 # print_impact_counts(control_df,'control',"control_gene_mutations.csv")
 
-case_df = pd.read_csv('../../Resources/Intermediary_Data/case_gene_mutations.csv')
-control_df = pd.read_csv('../../Resources/Intermediary_Data/control_gene_mutations.csv')
+case_df = pd.read_csv('../../Resources/Data/Intermediary_Data/case_gene_mutations.csv')
+control_df = pd.read_csv('../../Resources/Data/Intermediary_Data/control_gene_mutations.csv')
 
 

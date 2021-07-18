@@ -6,7 +6,7 @@ import pandas as pd
 # https://opensource.com/article/20/4/plot-data-
 # Create plotly diagram to show off too!
 
-prevalence_df = pd.read_csv('../../Resources/Base_Data/Somatic_Gene_Prevalences.csv')
+prevalence_df = pd.read_csv('../../Resources/Data/Base_Data/Somatic_Gene_Prevalences.csv')
 prevalence_df.columns=prevalence_df.columns.str.strip()
 graph_df = prevalence_df.sort_values(by=['absolute_overrepresentation'], ascending= False).iloc[1:11,:]
 print(graph_df[['name','case_percentage','id']])

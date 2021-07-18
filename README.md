@@ -10,3 +10,10 @@ The ENSEMBL archived data retrieval framework in perl is not mine, but the modul
 
 ![Graph of mutation prevalence in gene per group](https://github.com/AndreasAAR/HNSCC_project/blob/master/Graphs/Mutation_Prevalence.jpg?raw=true)
 
+
+## TODO
+1. Heatmap, each patient, important genes, and the level of change for those genes.
+   * List of each individual generated to be merged together.
+2. Graph on shared pathways in common genes in each patient group, colored by group, size by
+percentage having the change. :snail:
+    
