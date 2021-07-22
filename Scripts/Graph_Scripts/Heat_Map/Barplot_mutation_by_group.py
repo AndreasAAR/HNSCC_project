@@ -6,7 +6,7 @@ import pandas as pd
 # https://opensource.com/article/20/4/plot-data-
 # Create plotly diagram to show off too!
 
-prevalence_df = pd.read_csv('../../Resources/Data/Base_Data/Somatic_Gene_Prevalences.csv')
+prevalence_df = pd.read_csv('../../../Resources/Data/Base_Data/Somatic_Gene_Prevalences.csv')
 prevalence_df.columns=prevalence_df.columns.str.strip()
 graph_df = prevalence_df.sort_values(by=['absolute_overrepresentation'], ascending= False).iloc[1:11,:]
 print(graph_df[['name','case_percentage','id']])
@@ -32,11 +32,9 @@ N = 10
 # Data on X-axis
 
 # Specify the values of blue bars (height)
-
 green_bar = list(case_percentage)
 # Specify the values of orange bars (height)
 dark_green_bar = list(control_percentage)
-
 
 # Position of bars on x-axis
 ind = np.arange(N)
@@ -46,8 +44,6 @@ plt.figure(figsize=(10,5))
 
 # Width of a bar
 width = 0.20
-
-
 
 # Plotting
 plt.bar(ind, green_bar, width, label='Cases',color=(0.2, 0.4, 0.6, 0.6))

@@ -1,0 +1,1 @@
+pathway_df = pd.read_csv("../../../Resources/Data/Intermediary_Data/GENE_names_to_Pathways_raw.csv")

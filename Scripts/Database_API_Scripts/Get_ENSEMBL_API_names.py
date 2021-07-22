@@ -15,11 +15,11 @@ def get_ensembl_name(gene_id):
                 r.raise_for_status()
                 sys.exit()
             decoded = r.json()
-            print("test")
-            print(decoded)
             new_name = decoded.get("display_name")
             if not new_name:
                 description =  decoded.get("description")
+                if not description:
+                    return name
                 descriptions = description.split(",")
                 name = descriptions[1] if len(descriptions) > 1\
                                           and len(descriptions[1]) >1 else descriptions[0]
@@ -30,7 +30,4 @@ def get_ensembl_name(gene_id):
         except requests.exceptions.HTTPError:
             name = "name not found"
             return name
-
-
-print(get_ensembl_name("ENSG00000034063"))
 

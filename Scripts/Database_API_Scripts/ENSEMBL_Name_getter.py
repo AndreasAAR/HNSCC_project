@@ -22,7 +22,5 @@ class Name_getter():
         name = name if name else "name not found"
         return name
 
-ng = Name_getter()
-print(ng.get_name('ENSG00000269425'))
 
 
