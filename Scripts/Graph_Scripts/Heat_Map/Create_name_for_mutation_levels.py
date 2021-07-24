@@ -18,5 +18,4 @@ id_df = pd.DataFrame(name_id_Dict.items(), columns=['GENE_NAME','GENE_ID'])
 id_df.to_csv("../../Resources/Data/Intermediary_Data/AllPatient_Mutation_Level_Names.csv")
 
 
-
 print("DONE")
