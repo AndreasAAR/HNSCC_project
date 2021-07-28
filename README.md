@@ -16,4 +16,8 @@ The ENSEMBL archived data retrieval framework in perl is not mine, but the modul
    * List of each individual generated to be merged together.
 2. Graph on shared pathways in common genes in each patient group, colored by group, size by
 percentage having the change. :snail:
+  * K-means Clustering gave 5 clusters (/) 
+  * Hierarchical clustering (/)
+  * Add description to pathways, check out if there is some way to make them related, and add a non binary row.
+  * Frequent itemset mining to investigate possible related genes, cluster these, make them an additional non binary row.
     
