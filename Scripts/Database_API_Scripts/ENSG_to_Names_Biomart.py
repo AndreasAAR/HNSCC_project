@@ -4,20 +4,20 @@ from biomart import BiomartServer
 import json
 import tsv
 
-def get_ensembl_name(gene_id, ver_count = 0):
+def get_ensembl_name(gene_id, ver_count = -1):
     gene_name = "name not found"
-    versions = [36,37,38]
-    max = len(versions)
-    ver_count += 1
+    versions = [35,36,37,38,39]
+    max = len(versions)-1
     print("run number {}".format(ver_count))
-
+    ver_count += 1
     if ver_count >= max:
         return "name not found"
     try:
-        if versions[ver_count] != 38:
-            server = BiomartServer( "http://grch" + str(versions[ver_count]) + ".ensembl.org/biomart/martservice" )
         if versions[ver_count] == 38:
             server = BiomartServer("http://ensembl.org/biomart/martservice")
+        else:
+            server = BiomartServer( "http://grch" + str(versions[ver_count]) + ".ensembl.org/biomart/martservice" )
+
         #http://grch37.ensembl.org/biomart/martservice
         #UHRF1 ENSG00000034063
         ensmbl_hg = server.datasets['hsapiens_gene_ensembl']

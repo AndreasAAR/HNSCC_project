@@ -1,0 +1,716 @@
+CHR	START	END	DP	TYPE	EFFECT	IMPACT	GENE	GENE_ID	FEATURE	TRANSCRIPT_ID	BIOTYPE
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000220496	protein_coding
+15	41099904	41099904	219	INDEL	frameshift_variant	HIGH	ZFYVE19	ENSG00000166140	Transcript	ENST00000299173	protein_coding
+15	41099904	41099904	219	INDEL	intron_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000336455	protein_coding
+15	41099904	41099904	219	INDEL	frameshift_variant	HIGH	ZFYVE19	ENSG00000166140	Transcript	ENST00000355341	protein_coding
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000559238	nonsense_mediated_decay
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000559310	nonsense_mediated_decay
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000560065	nonsense_mediated_decay
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000560078	retained_intron
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000560301	retained_intron
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000560645	nonsense_mediated_decay
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000561018	nonsense_mediated_decay
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000561617	protein_coding
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000561768	nonsense_mediated_decay
+15	41099904	41099904	219	INDEL	non_coding_transcript_exon_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000563530	processed_transcript
+15	41099904	41099904	219	INDEL	intron_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000564258	protein_coding
+15	41099904	41099904	219	INDEL	frameshift_variant	HIGH	ZFYVE19	ENSG00000166140	Transcript	ENST00000566407	protein_coding
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000566767	protein_coding
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000567756	nonsense_mediated_decay
+15	41099904	41099904	219	INDEL	frameshift_variant&NMD_transcript_variant	HIGH	ZFYVE19	ENSG00000166140	Transcript	ENST00000568062	nonsense_mediated_decay
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000569057	nonsense_mediated_decay
+15	41099904	41099904	219	INDEL	intron_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000570108	protein_coding
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000570162	retained_intron
+15	41099904	41099904	219	INDEL	frameshift_variant	HIGH	ZFYVE19	84936	Transcript	NM_001077268.2	protein_coding
+15	41099904	41099904	219	INDEL	frameshift_variant	HIGH	ZFYVE19	84936	Transcript	NM_001258420.2	protein_coding
+15	41099904	41099904	219	INDEL	intron_variant	MODIFIER	ZFYVE19	84936	Transcript	NM_001258421.2	protein_coding
+15	41099904	41099904	219	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	55192	Transcript	NM_018163.3	protein_coding
+15	41099904	41099904	219	INDEL	intron_variant	MODIFIER	ZFYVE19	84936	Transcript	NM_032850.5	protein_coding
+15	41099904	41099904	219	INDEL	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00000075564	promoter
+15	41099904	41099904	219	INDEL	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00908356251	
+15	41853505	41853733	117	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000263798	protein_coding
+15	41853505	41853733	117	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000559066	protein_coding
+15	41853505	41853733	117	INDEL	upstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000560227	retained_intron
+15	41853505	41853733	117	INDEL	non_coding_transcript_exon_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000560992	retained_intron
+15	41853505	41853733	117	INDEL	downstream_gene_variant	MODIFIER	TCEB1P2	ENSG00000259838	Transcript	ENST00000566760	unprocessed_pseudogene
+15	41853505	41853733	117	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_001330264.1	protein_coding
+15	41853505	41853733	117	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_006293.4	protein_coding
+15	41853505	41853733	117	INDEL	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00000369056	CTCF_binding_site
+15	41853835	41854743	64	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000263798	protein_coding
+15	41853835	41854743	64	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000559066	protein_coding
+15	41853835	41854743	64	INDEL	upstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000559815	nonsense_mediated_decay
+15	41853835	41854743	64	INDEL	upstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000560227	retained_intron
+15	41853835	41854743	64	INDEL	non_coding_transcript_exon_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000560992	retained_intron
+15	41853835	41854743	64	INDEL	downstream_gene_variant	MODIFIER	TCEB1P2	ENSG00000259838	Transcript	ENST00000566760	unprocessed_pseudogene
+15	41853835	41854743	64	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_001330264.1	protein_coding
+15	41853835	41854743	64	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_006293.4	protein_coding
+15	41853835	41854743	64	INDEL	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00000369056	CTCF_binding_site
+15	41853835	41854743	64	INDEL	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00522597432	
+15	41859733	41860412	95	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000263798	protein_coding
+15	41859733	41860412	95	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000559066	protein_coding
+15	41859733	41860412	95	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant&NMD_transcript_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000559815	nonsense_mediated_decay
+15	41859733	41860412	95	INDEL	upstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000559851	nonsense_mediated_decay
+15	41859733	41860412	95	INDEL	upstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000560162	retained_intron
+15	41859733	41860412	95	INDEL	splice_donor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000560227	retained_intron
+15	41859733	41860412	95	INDEL	upstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000568343	protein_coding
+15	41859733	41860412	95	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_001330264.1	protein_coding
+15	41859733	41860412	95	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_006293.4	protein_coding
+15	41859733	41860412	95	INDEL	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001575373	promoter_flanking_region
+15	41859733	41860412	95	INDEL	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00528521048	
+15	41862895	41863233	111	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000263798	protein_coding
+15	41862895	41863233	111	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000559066	protein_coding
+15	41862895	41863233	111	INDEL	downstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000559815	nonsense_mediated_decay
+15	41862895	41863233	111	INDEL	upstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000559851	nonsense_mediated_decay
+15	41862895	41863233	111	INDEL	non_coding_transcript_exon_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000560162	retained_intron
+15	41862895	41863233	111	INDEL	downstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000560227	retained_intron
+15	41862895	41863233	111	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000568343	protein_coding
+15	41862895	41863233	111	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_001330264.1	protein_coding
+15	41862895	41863233	111	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_006293.4	protein_coding
+15	41863884	41864639	107	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000263798	protein_coding
+15	41863884	41864639	107	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000559066	protein_coding
+15	41863884	41864639	107	INDEL	downstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000559815	nonsense_mediated_decay
+15	41863884	41864639	107	INDEL	splice_acceptor_variant&splice_donor_variant&3_prime_UTR_variant&intron_variant&NMD_transcript_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000559851	nonsense_mediated_decay
+15	41863884	41864639	107	INDEL	splice_acceptor_variant&splice_donor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000560162	retained_intron
+15	41863884	41864639	107	INDEL	downstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000560227	retained_intron
+15	41863884	41864639	107	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000568343	protein_coding
+15	41863884	41864639	107	INDEL	upstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000568490	retained_intron
+15	41863884	41864639	107	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_001330264.1	protein_coding
+15	41863884	41864639	107	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_006293.4	protein_coding
+15	41864762	41865199	130	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000263798	protein_coding
+15	41864762	41865199	130	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000559066	protein_coding
+15	41864762	41865199	130	INDEL	downstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000559815	nonsense_mediated_decay
+15	41864762	41865199	130	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&NMD_transcript_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000559851	nonsense_mediated_decay
+15	41864762	41865199	130	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&non_coding_transcript_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000560162	retained_intron
+15	41864762	41865199	130	INDEL	downstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000560227	retained_intron
+15	41864762	41865199	130	INDEL	splice_donor_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000568343	protein_coding
+15	41864762	41865199	130	INDEL	upstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000568490	retained_intron
+15	41864762	41865199	130	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_001330264.1	protein_coding
+15	41864762	41865199	130	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_006293.4	protein_coding
+15	41865309	41865505	83	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000263798	protein_coding
+15	41865309	41865505	83	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000559066	protein_coding
+15	41865309	41865505	83	INDEL	downstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000559815	nonsense_mediated_decay
+15	41865309	41865505	83	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&NMD_transcript_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000559851	nonsense_mediated_decay
+15	41865309	41865505	83	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&non_coding_transcript_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000560162	retained_intron
+15	41865309	41865505	83	INDEL	downstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000560227	retained_intron
+15	41865309	41865505	83	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000568343	protein_coding
+15	41865309	41865505	83	INDEL	upstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000568490	retained_intron
+15	41865309	41865505	83	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_001330264.1	protein_coding
+15	41865309	41865505	83	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_006293.4	protein_coding
+15	41865664	41865875	110	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000263798	protein_coding
+15	41865664	41865875	110	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000559066	protein_coding
+15	41865664	41865875	110	INDEL	downstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000559815	nonsense_mediated_decay
+15	41865664	41865875	110	INDEL	3_prime_UTR_variant&NMD_transcript_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000559851	nonsense_mediated_decay
+15	41865664	41865875	110	INDEL	downstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000560162	retained_intron
+15	41865664	41865875	110	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	ENSG00000092445	Transcript	ENST00000568343	protein_coding
+15	41865664	41865875	110	INDEL	upstream_gene_variant	MODIFIER	TYRO3	ENSG00000092445	Transcript	ENST00000568490	retained_intron
+15	41865664	41865875	110	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_001330264.1	protein_coding
+15	41865664	41865875	110	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TYRO3	7301	Transcript	NM_006293.4	protein_coding
+19	7935785	7935854	284	INDEL	inframe_deletion	MODERATE	CTD-3193O13.9	ENSG00000183248	Transcript	ENST00000539422	protein_coding
+19	7935785	7935854	284	INDEL	intron_variant&non_coding_transcript_variant	MODIFIER	CTD-3193O13.9	ENSG00000183248	Transcript	ENST00000593356	processed_transcript
+19	7935785	7935854	284	INDEL	splice_donor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	CTD-3193O13.11	ENSG00000268120	Transcript	ENST00000597156	lincRNA
+19	7935785	7935854	284	INDEL	inframe_deletion	MODERATE	CTD-3193O13.9	ENSG00000183248	Transcript	ENST00000599142	protein_coding
+19	7935785	7935854	284	INDEL	inframe_deletion	MODERATE	PRR36	80164	Transcript	NM_001190467.2	protein_coding
+19	7935785	7935854	284	INDEL	intron_variant&non_coding_transcript_variant	MODIFIER	PRR36	80164	Transcript	NR_104345.2	misc_RNA
+19	22155822	22155822	270	OTHER	stop_lost&coding_sequence_variant&3_prime_UTR_variant&feature_truncation	HIGH	ZNF676	ENSG00000196109	Transcript	ENST00000397121	protein_coding
+19	22155822	22155822	270	OTHER	coding_sequence_variant&5_prime_UTR_variant&intron_variant&feature_truncation	MODIFIER	ZNF208	ENSG00000160321	Transcript	ENST00000397126	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF257	ENSG00000197134	Transcript	ENST00000435820	nonsense_mediated_decay
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF257	ENSG00000197134	Transcript	ENST00000594363	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF257	ENSG00000197134	Transcript	ENST00000594947	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	PCGF7P	ENSG00000268140	Transcript	ENST00000595406	processed_pseudogene
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF257	ENSG00000197134	Transcript	ENST00000596471	processed_transcript
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	AC003973.4	ENSG00000269504	Transcript	ENST00000596778	lincRNA
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF208	ENSG00000160321	Transcript	ENST00000597040	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	RP11-157B13.1	ENSG00000268116	Transcript	ENST00000597113	processed_pseudogene
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF257	ENSG00000197134	Transcript	ENST00000597796	nonsense_mediated_decay
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF257	ENSG00000197134	Transcript	ENST00000597927	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	CTB-135N1.2	ENSG00000269742	Transcript	ENST00000598302	processed_pseudogene
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	RP11-157B13.3	ENSG00000269575	Transcript	ENST00000598980	processed_pseudogene
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF208	ENSG00000160321	Transcript	ENST00000599723	protein_coding
+19	22155822	22155822	270	OTHER	coding_sequence_variant&5_prime_UTR_variant&intron_variant&feature_truncation	MODIFIER	ZNF208	ENSG00000160321	Transcript	ENST00000599916	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	AC003973.5	ENSG00000269199	Transcript	ENST00000600071	lincRNA
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF257	ENSG00000197134	Transcript	ENST00000600162	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF92P2	ENSG00000269505	Transcript	ENST00000600543	processed_pseudogene
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	VN1R85P	ENSG00000269345	Transcript	ENST00000601587	unprocessed_pseudogene
+19	22155822	22155822	270	OTHER	coding_sequence_variant&5_prime_UTR_variant&intron_variant&feature_truncation	MODIFIER	ZNF208	ENSG00000160321	Transcript	ENST00000601773	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF208	ENSG00000160321	Transcript	ENST00000601993	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	AC003973.6	ENSG00000271095	Transcript	ENST00000603918	processed_pseudogene
+19	22155822	22155822	270	OTHER	stop_lost&coding_sequence_variant&3_prime_UTR_variant&feature_truncation	HIGH	ZNF676	163223	Transcript	NM_001001411.3	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF257	113835	Transcript	NM_001316996.2	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF257	113835	Transcript	NM_001316997.2	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF257	113835	Transcript	NM_001316998.2	protein_coding
+19	22155822	22155822	270	OTHER	coding_sequence_variant&5_prime_UTR_variant&intron_variant&feature_truncation	MODIFIER	ZNF208	7757	Transcript	NM_001329971.1	protein_coding
+19	22155822	22155822	270	OTHER	coding_sequence_variant&5_prime_UTR_variant&intron_variant&feature_truncation	MODIFIER	ZNF208	7757	Transcript	NM_001329972.1	protein_coding
+19	22155822	22155822	270	OTHER	coding_sequence_variant&5_prime_UTR_variant&intron_variant&feature_truncation	MODIFIER	ZNF208	7757	Transcript	NM_001329973.1	protein_coding
+19	22155822	22155822	270	OTHER	coding_sequence_variant&5_prime_UTR_variant&intron_variant&feature_truncation	MODIFIER	ZNF208	7757	Transcript	NM_001329974.1	protein_coding
+19	22155822	22155822	270	OTHER	coding_sequence_variant&5_prime_UTR_variant&intron_variant&feature_truncation	MODIFIER	ZNF208	7757	Transcript	NM_007153.3	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF257	113835	Transcript	NM_033468.4	protein_coding
+19	22155822	22155822	270	OTHER	transcript_ablation	HIGH	ZNF208	7757	Transcript	NR_138252.1	misc_RNA
+19	22155822	22155822	270	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001158452	
+19	22155822	22155822	270	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00000108362	
+19	22155822	22155822	270	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001158454	
+19	22155822	22155822	270	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001610644	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS2_AA_TCGCTG20NGA_TTGACAGSTGTCAA_m2_c4_Cell2013	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	YY2_Y_TCTTTC20NTTG_NNCCGCCATNW_m1_c4_Cell2013	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GABPA_AG_TGGCCC20NCCT_ACCGGAAGTN_m1_c4_Cell2013	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_ELF1_AY_TGTGAG40NAGG_GGAATGCGGAAGTN_m2_c2	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNNCACGTG_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RGAATGYNNACGTG_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELF2_AL_TGCAAG20NAAC_NATGCGGAAGTR_m1_c2_DimerNatureMono	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_NCACGTGNNYAACSGNN_m1_c2	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ERF_MAX_AAC_TTAGTC40NTCC_RSCGGAANCACGTGN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	EHF_AG_TCTTGA20NGTG_NACCCGGAAGTA_m2_c3_Cell2013	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_ELF1_AX_TATGAC40NTCA_NMCCGGAACCGTTR_m1_c3b0	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CEBPG_ELF1_AS_TATGAC40NTCA_TTGCGYAANNSCGGAAGN_m2_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_NNCACGTGNNNGCGGGYN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_NNCACGTGNNNNNNNNNNRTGCGGGYRN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_HOXA2_AAA_TTAACA40NTGT_NCCGGAAGTMATTA_m2_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNNCACGTG_m1_c2	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS1_MAX_AT_TATCTG40NTCG_NTGACRNNNNNNCACGTGN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNNCACGTGN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNCACGTG_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELF1_AX_TTTCAC40NGTG_NNMGGAARTGCKGGN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ERF_FOXI1_AAC_TAGTCA40NTCT_TGTTKMCGGAWRN_m1_c2	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CLOCK_Z_TGAGAT20NAGA_NACACGTGTN_m1_c3_Cell2013	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM2_MAX_AAB_TGCCTG40NTCC_NTRNGGGNNNCACGTG_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_NNYMATTANNNNNNNGGAAGNN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_DLX3_AAA_TAGAGC40NTAG_TAATTRNNNNCGGAARYN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_TAATKRNNNNGGAAGTN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNCACGTGN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNCACGTGN_m1_c2	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	FOXO1_ELF1_AS_TTTCAC40NGTG_RWMAACAGGAAGTN_m1_c2	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	FOXJ2_ELF1_AAF_TAAGAT40NATG_RMAGAAAACCGAANN_m1_c2	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS1_ELF1_AT_TCCGAT40NAGC_NTGCCGGAAGTN_m1_c2	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MAX_Y_TGACCT20NGA_CACGTGNNNNNCACGTG_m1_c3_Cell2013	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP4_MAX_AW_TCCTTG40NGGT_NCAGCTGNNNNNNNCACGTGN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELF1_AX_TTTCAC40NGTG_NRCCCRNNCGGAAGNN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNCACGTG_m1_c2	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_RTGCGGGNNNNNNNCACGTGN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_NYMATTANNNNNNNNGGAAGNN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNCACGTGN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELK1_AU_TTCGCT40NCTT_RTGCGGGCGGAAGTN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELK3_AU_TTGGGT40NGGC_RTGCGGGCGGAAGTN_m2_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	E2F2_W_TACTCA20NCG_NNTTTTGGCGCCAAAANN_m2_c4_Cell2013	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GABPA_AG_TGGCCC20NCCT_ACCGGAAGTN_m1_c4_Cell2013	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	YY2_Y_TCTTTC20NTTG_NNCCGCCATNW_m1_c4_Cell2013	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	SRF_W_TGGAAT20NAAT_NNMCCATATAWGGKNN_m2_c3_Cell2013	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CUX1_SRF_AY_TGAAAT40NCAA_NCCATAYWNGGWNNNNATCRATN_m1_c3	
+19	22155822	22155822	270	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	RFX3_SRF_AY_TTACGG40NCGC_NRGYAACNNNNNCCTWWWNNGGN_m1_c3	
+3	10167391	10167951	155	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	BRK1	ENSG00000254999	Transcript	ENST00000256463	protein_coding
+3	10167391	10167951	155	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	BRK1	ENSG00000254999	Transcript	ENST00000530758	protein_coding
+3	10167391	10167951	155	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	BRK1	55845	Transcript	NM_018462.5	protein_coding
+3	122928050	122928050	64	INDEL	5_prime_UTR_variant	MODIFIER	SEC22A	ENSG00000121542	Transcript	ENST00000309934	protein_coding
+3	122928050	122928050	64	INDEL	5_prime_UTR_variant	MODIFIER	SEC22A	ENSG00000121542	Transcript	ENST00000466519	protein_coding
+3	122928050	122928050	64	INDEL	5_prime_UTR_variant&NMD_transcript_variant	MODIFIER	SEC22A	ENSG00000121542	Transcript	ENST00000466950	nonsense_mediated_decay
+3	122928050	122928050	64	INDEL	frameshift_variant&NMD_transcript_variant	HIGH	PDIA5	ENSG00000065485	Transcript	ENST00000469649	nonsense_mediated_decay
+3	122928050	122928050	64	INDEL	5_prime_UTR_variant	MODIFIER	SEC22A	ENSG00000121542	Transcript	ENST00000473494	protein_coding
+3	122928050	122928050	64	INDEL	non_coding_transcript_exon_variant	MODIFIER	SEC22A	ENSG00000121542	Transcript	ENST00000477063	processed_transcript
+3	122928050	122928050	64	INDEL	5_prime_UTR_variant	MODIFIER	SEC22A	ENSG00000121542	Transcript	ENST00000480631	protein_coding
+3	122928050	122928050	64	INDEL	5_prime_UTR_variant	MODIFIER	SEC22A	ENSG00000121542	Transcript	ENST00000481965	protein_coding
+3	122928050	122928050	64	INDEL	5_prime_UTR_variant	MODIFIER	SEC22A	ENSG00000121542	Transcript	ENST00000487572	protein_coding
+3	122928050	122928050	64	INDEL	5_prime_UTR_variant	MODIFIER	SEC22A	ENSG00000121542	Transcript	ENST00000491366	protein_coding
+3	122928050	122928050	64	INDEL	5_prime_UTR_variant	MODIFIER	SEC22A	ENSG00000121542	Transcript	ENST00000492595	protein_coding
+3	122928050	122928050	64	INDEL	5_prime_UTR_variant	MODIFIER	SEC22A	26984	Transcript	NM_012430.5	protein_coding
+3	122928050	122928050	64	INDEL	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001664798	promoter_flanking_region
+3	130132024	130132904	53	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	COL6A5	ENSG00000172752	Transcript	ENST00000265379	protein_coding
+3	130132024	130132904	53	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant&NMD_transcript_variant	HIGH	COL6A5	ENSG00000172752	Transcript	ENST00000312481	nonsense_mediated_decay
+3	130132024	130132904	53	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	COL6A5	ENSG00000172752	Transcript	ENST00000432398	protein_coding
+3	130132024	130132904	53	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	COL6A5	256076	Transcript	NM_001278298.1	protein_coding
+3	130132024	130132904	53	INDEL	splice_acceptor_variant&splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	COL6A5	256076	Transcript	NM_153264.6	protein_coding
+3	130132024	130132904	53	INDEL	splice_acceptor_variant&splice_donor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	COL6A5	256076	Transcript	NR_022012.2	misc_RNA
+6	17669260	17669260	101	INDEL	splice_acceptor_variant	HIGH	NUP153	ENSG00000124789	Transcript	ENST00000262077	protein_coding
+6	17669260	17669260	101	INDEL	splice_acceptor_variant	HIGH	NUP153	ENSG00000124789	Transcript	ENST00000537253	protein_coding
+6	17669260	17669260	101	INDEL	splice_acceptor_variant	HIGH	NUP153	9972	Transcript	NM_001278209.1	protein_coding
+6	17669260	17669260	101	INDEL	splice_acceptor_variant	HIGH	NUP153	9972	Transcript	NM_001278210.1	protein_coding
+6	17669260	17669260	101	INDEL	splice_acceptor_variant	HIGH	NUP153	9972	Transcript	NM_005124.4	protein_coding
+6	29912029	29912030	348	OTHER	frameshift_variant	HIGH	HLA-A	ENSG00000206503	Transcript	ENST00000376802	protein_coding
+6	29912029	29912030	348	OTHER	frameshift_variant	HIGH	HLA-A	ENSG00000206503	Transcript	ENST00000376806	protein_coding
+6	29912029	29912030	348	OTHER	frameshift_variant	HIGH	HLA-A	ENSG00000206503	Transcript	ENST00000376809	protein_coding
+6	29912029	29912030	348	OTHER	frameshift_variant	HIGH	HLA-A	ENSG00000206503	Transcript	ENST00000396634	protein_coding
+6	29912029	29912030	348	OTHER	upstream_gene_variant	MODIFIER	HCG4P5	ENSG00000227766	Transcript	ENST00000429656	unprocessed_pseudogene
+6	29912029	29912030	348	OTHER	non_coding_transcript_exon_variant	MODIFIER	HLA-A	ENSG00000206503	Transcript	ENST00000461903	retained_intron
+6	29912029	29912030	348	OTHER	non_coding_transcript_exon_variant	MODIFIER	HLA-A	ENSG00000206503	Transcript	ENST00000479320	retained_intron
+6	29912029	29912030	348	OTHER	non_coding_transcript_exon_variant	MODIFIER	HLA-A	ENSG00000206503	Transcript	ENST00000495183	retained_intron
+6	29912029	29912030	348	OTHER	non_coding_transcript_exon_variant	MODIFIER	HLA-A	ENSG00000206503	Transcript	ENST00000496081	retained_intron
+6	29912029	29912030	348	OTHER	frameshift_variant	HIGH	HLA-A	3105	Transcript	NM_002116.8	protein_coding
+6	29912029	29912030	348	OTHER	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00000195346	promoter
+6	32497900	32497900	231	SNP	splice_donor_variant	HIGH	HLA-DRB5	ENSG00000198502	Transcript	ENST00000374975	protein_coding
+6	32497900	32497900	231	SNP	splice_donor_variant	HIGH	HLA-DRB5	3127	Transcript	NM_002125.4	protein_coding
+6	32497900	32497900	231	SNP	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001358971	promoter
+6	32497900	32497900	231	SNP	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00910649559	
+6	32497900	32497900	231	SNP	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00523649747	
+6	32497900	32497900	231	SNP	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00529002223	
+6	32497900	32497900	231	SNP	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00907122680	
+6	32497900	32497900	231	SNP	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00526756739	
+6	32497900	32497900	231	SNP	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00523431617	
+6	32497900	32497900	231	SNP	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00907151241	
+6	111346774	111346774	68	SNP	downstream_gene_variant	MODIFIER	RPF2	ENSG00000197498	Transcript	ENST00000368864	nonsense_mediated_decay
+6	111346774	111346774	68	SNP	downstream_gene_variant	MODIFIER	RPF2	ENSG00000197498	Transcript	ENST00000425871	protein_coding
+6	111346774	111346774	68	SNP	stop_gained	HIGH	RPF2	ENSG00000197498	Transcript	ENST00000441448	protein_coding
+6	111346774	111346774	68	SNP	3_prime_UTR_variant&NMD_transcript_variant	MODIFIER	RPF2	ENSG00000197498	Transcript	ENST00000607388	nonsense_mediated_decay
+6	111346774	111346774	68	SNP	stop_gained	HIGH	RPF2	84154	Transcript	NM_001289111.1	protein_coding
+6	111346774	111346774	68	SNP	stop_gained	HIGH	RPF2	84154	Transcript	NM_032194.3	protein_coding
+6	136589477	136589477	65	OTHER	5_prime_UTR_variant&intron_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000031135	protein_coding
+6	136589477	136589477	65	OTHER	intron_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000353331	protein_coding
+6	136589477	136589477	65	OTHER	intron_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000392348	protein_coding
+6	136589477	136589477	65	OTHER	downstream_gene_variant	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000476194	retained_intron
+6	136589477	136589477	65	OTHER	non_coding_transcript_exon_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000526228	retained_intron
+6	136589477	136589477	65	OTHER	intron_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000527536	protein_coding
+6	136589477	136589477	65	OTHER	stop_lost&coding_sequence_variant&3_prime_UTR_variant&intron_variant&NMD_transcript_variant&feature_truncation	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000527613	nonsense_mediated_decay
+6	136589477	136589477	65	OTHER	intron_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000527759	protein_coding
+6	136589477	136589477	65	OTHER	non_coding_transcript_exon_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000529522	retained_intron
+6	136589477	136589477	65	OTHER	downstream_gene_variant	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000529826	protein_coding
+6	136589477	136589477	65	OTHER	non_coding_transcript_exon_variant&intron_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000529917	processed_transcript
+6	136589477	136589477	65	OTHER	stop_lost&coding_sequence_variant&3_prime_UTR_variant&intron_variant&NMD_transcript_variant&feature_truncation	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000530429	nonsense_mediated_decay
+6	136589477	136589477	65	OTHER	intron_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000530767	protein_coding
+6	136589477	136589477	65	OTHER	intron_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000531224	protein_coding
+6	136589477	136589477	65	OTHER	non_coding_transcript_exon_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000532076	retained_intron
+6	136589477	136589477	65	OTHER	stop_lost&coding_sequence_variant&3_prime_UTR_variant&intron_variant&NMD_transcript_variant&feature_truncation	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000532384	nonsense_mediated_decay
+6	136589477	136589477	65	OTHER	upstream_gene_variant	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000533422	nonsense_mediated_decay
+6	136589477	136589477	65	OTHER	3_prime_UTR_variant&intron_variant&NMD_transcript_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000534269	nonsense_mediated_decay
+6	136589477	136589477	65	OTHER	non_coding_transcript_exon_variant&intron_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000534321	retained_intron
+6	136589477	136589477	65	OTHER	intron_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000534762	protein_coding
+6	136589477	136589477	65	OTHER	non_coding_transcript_exon_variant&feature_truncation	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000534792	retained_intron
+6	136589477	136589477	65	OTHER	intron_variant&feature_truncation	MODIFIER	BCLAF1	9774	Transcript	NM_001077440.1	protein_coding
+6	136589477	136589477	65	OTHER	intron_variant&feature_truncation	MODIFIER	BCLAF1	9774	Transcript	NM_001077441.2	protein_coding
+6	136589477	136589477	65	OTHER	intron_variant&feature_truncation	MODIFIER	BCLAF1	9774	Transcript	NM_001301038.2	protein_coding
+6	136589477	136589477	65	OTHER	intron_variant&feature_truncation	MODIFIER	BCLAF1	9774	Transcript	NM_001363659.2	protein_coding
+6	136589477	136589477	65	OTHER	intron_variant&feature_truncation	MODIFIER	BCLAF1	9774	Transcript	NM_014739.3	protein_coding
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000353331	protein_coding
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000392348	protein_coding
+6	136596839	136596980	121	INDEL	upstream_gene_variant	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000476194	retained_intron
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000527536	protein_coding
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&NMD_transcript_variant	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000527613	nonsense_mediated_decay
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000527759	protein_coding
+6	136596839	136596980	121	INDEL	downstream_gene_variant	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000528229	retained_intron
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000529826	protein_coding
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&NMD_transcript_variant	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000530429	nonsense_mediated_decay
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000530767	protein_coding
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000531224	protein_coding
+6	136596839	136596980	121	INDEL	upstream_gene_variant	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000532076	retained_intron
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&NMD_transcript_variant	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000532384	nonsense_mediated_decay
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&NMD_transcript_variant	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000533621	nonsense_mediated_decay
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&NMD_transcript_variant	HIGH	BCLAF1	ENSG00000029363	Transcript	ENST00000534269	nonsense_mediated_decay
+6	136596839	136596980	121	INDEL	upstream_gene_variant	MODIFIER	BCLAF1	ENSG00000029363	Transcript	ENST00000534792	retained_intron
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BCLAF1	9774	Transcript	NM_001077440.1	protein_coding
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BCLAF1	9774	Transcript	NM_001077441.2	protein_coding
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BCLAF1	9774	Transcript	NM_001301038.2	protein_coding
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BCLAF1	9774	Transcript	NM_001363659.2	protein_coding
+6	136596839	136596980	121	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BCLAF1	9774	Transcript	NM_014739.3	protein_coding
+22	21343965	21344002	172	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	LZTR1	ENSG00000099949	Transcript	ENST00000215739	protein_coding
+22	21343965	21344002	172	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	LZTR1	ENSG00000099949	Transcript	ENST00000389355	protein_coding
+22	21343965	21344002	172	INDEL	splice_donor_variant&3_prime_UTR_variant&intron_variant&NMD_transcript_variant	HIGH	LZTR1	ENSG00000099949	Transcript	ENST00000414985	nonsense_mediated_decay
+22	21343965	21344002	172	INDEL	upstream_gene_variant	MODIFIER	LZTR1	ENSG00000099949	Transcript	ENST00000415354	nonsense_mediated_decay
+22	21343965	21344002	172	INDEL	upstream_gene_variant	MODIFIER	LZTR1	ENSG00000099949	Transcript	ENST00000439171	nonsense_mediated_decay
+22	21343965	21344002	172	INDEL	downstream_gene_variant	MODIFIER	LZTR1	ENSG00000099949	Transcript	ENST00000443265	nonsense_mediated_decay
+22	21343965	21344002	172	INDEL	upstream_gene_variant	MODIFIER	LZTR1	ENSG00000099949	Transcript	ENST00000461510	retained_intron
+22	21343965	21344002	172	INDEL	upstream_gene_variant	MODIFIER	LZTR1	ENSG00000099949	Transcript	ENST00000464807	retained_intron
+22	21343965	21344002	172	INDEL	splice_donor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	LZTR1	ENSG00000099949	Transcript	ENST00000479606	processed_transcript
+22	21343965	21344002	172	INDEL	splice_donor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	LZTR1	ENSG00000099949	Transcript	ENST00000480895	processed_transcript
+22	21343965	21344002	172	INDEL	upstream_gene_variant	MODIFIER	LZTR1	ENSG00000099949	Transcript	ENST00000491432	retained_intron
+22	21343965	21344002	172	INDEL	upstream_gene_variant	MODIFIER	LZTR1	ENSG00000099949	Transcript	ENST00000492480	retained_intron
+22	21343965	21344002	172	INDEL	downstream_gene_variant	MODIFIER	LZTR1	ENSG00000099949	Transcript	ENST00000493460	retained_intron
+22	21343965	21344002	172	INDEL	upstream_gene_variant	MODIFIER	LZTR1	ENSG00000099949	Transcript	ENST00000495142	retained_intron
+22	21343965	21344002	172	INDEL	splice_donor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	LZTR1	ENSG00000099949	Transcript	ENST00000497716	processed_transcript
+22	21343965	21344002	172	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	LZTR1	8216	Transcript	NM_006767.4	protein_coding
+20	61986949	61986950	71	MNP	upstream_gene_variant	MODIFIER	RP11-261N11.8	ENSG00000203900	Transcript	ENST00000370257	antisense
+20	61986949	61986950	71	MNP	intron_variant	MODIFIER	CHRNA4	ENSG00000101204	Transcript	ENST00000370263	protein_coding
+20	61986949	61986950	71	MNP	intron_variant&non_coding_transcript_variant	MODIFIER	CHRNA4	ENSG00000101204	Transcript	ENST00000463705	processed_transcript
+20	61986949	61986950	71	MNP	intron_variant&non_coding_transcript_variant	MODIFIER	CHRNA4	ENSG00000101204	Transcript	ENST00000467563	processed_transcript
+20	61986949	61986950	71	MNP	splice_acceptor_variant&intron_variant&NMD_transcript_variant	HIGH	CHRNA4	ENSG00000101204	Transcript	ENST00000498043	nonsense_mediated_decay
+20	61986949	61986950	71	MNP	intron_variant	MODIFIER	CHRNA4	1137	Transcript	NM_000744.6	protein_coding
+20	61986949	61986950	71	MNP	intron_variant	MODIFIER	CHRNA4	1137	Transcript	NM_001256573.2	protein_coding
+20	61986949	61986950	71	MNP	intron_variant&non_coding_transcript_variant	MODIFIER	CHRNA4	1137	Transcript	NR_046317.2	misc_RNA
+20	61986949	61986950	71	MNP	upstream_gene_variant	MODIFIER	LOC100130587	100130587	Transcript	NR_110634.1	lncRNA
+5	173035295	173036240	86	INDEL	splice_acceptor_variant&intron_variant	HIGH	BOD1	ENSG00000145919	Transcript	ENST00000285908	protein_coding
+5	173035295	173036240	86	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BOD1	ENSG00000145919	Transcript	ENST00000311086	protein_coding
+5	173035295	173036240	86	INDEL	downstream_gene_variant	MODIFIER	BOD1	ENSG00000145919	Transcript	ENST00000462674	protein_coding
+5	173035295	173036240	86	INDEL	downstream_gene_variant	MODIFIER	BOD1	ENSG00000145919	Transcript	ENST00000471339	processed_transcript
+5	173035295	173036240	86	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BOD1	ENSG00000145919	Transcript	ENST00000477985	protein_coding
+5	173035295	173036240	86	INDEL	splice_acceptor_variant&intron_variant	HIGH	BOD1	ENSG00000145919	Transcript	ENST00000480951	protein_coding
+5	173035295	173036240	86	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&non_coding_transcript_variant	HIGH	BOD1	ENSG00000145919	Transcript	ENST00000518658	retained_intron
+5	173035295	173036240	86	INDEL	splice_acceptor_variant&intron_variant	HIGH	BOD1	91272	Transcript	NM_001159651.1	protein_coding
+5	173035295	173036240	86	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	BOD1	91272	Transcript	NM_138369.3	protein_coding
+7	142499652	142499782	165	OTHER	downstream_gene_variant	MODIFIER	TRBJ2-4	ENSG00000211768	Transcript	ENST00000390416	TR_J_gene
+7	142499652	142499782	165	OTHER	downstream_gene_variant	MODIFIER	TRBJ2-5	ENSG00000211769	Transcript	ENST00000390417	TR_J_gene
+7	142499652	142499782	165	OTHER	downstream_gene_variant	MODIFIER	TRBJ2-6	ENSG00000211770	Transcript	ENST00000390418	TR_J_gene
+7	142499652	142499782	165	OTHER	downstream_gene_variant	MODIFIER	TRBJ2-7	ENSG00000211771	Transcript	ENST00000390419	TR_J_gene
+7	142499652	142499782	165	OTHER	splice_acceptor_variant&intron_variant	HIGH	TRBC2	ENSG00000211772	Transcript	ENST00000466254	TR_C_gene
+7	142499652	142499782	165	OTHER	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001734217	promoter_flanking_region
+9	138453745	138453745	97	SNP	splice_donor_variant	HIGH	PAEP	ENSG00000122133	Transcript	ENST00000277508	protein_coding
+9	138453745	138453745	97	SNP	splice_donor_variant	HIGH	PAEP	ENSG00000122133	Transcript	ENST00000371766	protein_coding
+9	138453745	138453745	97	SNP	splice_donor_variant&NMD_transcript_variant	HIGH	PAEP	ENSG00000122133	Transcript	ENST00000371768	nonsense_mediated_decay
+9	138453745	138453745	97	SNP	upstream_gene_variant	MODIFIER	PAEP	ENSG00000122133	Transcript	ENST00000418284	protein_coding
+9	138453745	138453745	97	SNP	splice_donor_variant	HIGH	PAEP	ENSG00000122133	Transcript	ENST00000433563	protein_coding
+9	138453745	138453745	97	SNP	upstream_gene_variant	MODIFIER	PAEP	ENSG00000122133	Transcript	ENST00000454923	protein_coding
+9	138453745	138453745	97	SNP	upstream_gene_variant	MODIFIER	PAEP	ENSG00000122133	Transcript	ENST00000457014	protein_coding
+9	138453745	138453745	97	SNP	splice_donor_variant	HIGH	PAEP	ENSG00000122133	Transcript	ENST00000479141	protein_coding
+9	138453745	138453745	97	SNP	splice_donor_variant	HIGH	PAEP	5047	Transcript	NM_001018048.2	protein_coding
+9	138453745	138453745	97	SNP	splice_donor_variant	HIGH	PAEP	5047	Transcript	NM_001018049.3	protein_coding
+9	138453745	138453745	97	SNP	splice_donor_variant	HIGH	PAEP	5047	Transcript	NM_002571.4	protein_coding
+21	44589920	44589921	89	INDEL	intron_variant	MODIFIER	CRYAA	ENSG00000160202	Transcript	ENST00000291554	protein_coding
+21	44589920	44589921	89	INDEL	upstream_gene_variant	MODIFIER	CRYAA	ENSG00000160202	Transcript	ENST00000398132	protein_coding
+21	44589920	44589921	89	INDEL	frameshift_variant	HIGH	CRYAA	ENSG00000160202	Transcript	ENST00000398133	protein_coding
+21	44589920	44589921	89	INDEL	upstream_gene_variant	MODIFIER	CRYAA	ENSG00000160202	Transcript	ENST00000468016	retained_intron
+21	44589920	44589921	89	INDEL	intron_variant&non_coding_transcript_variant	MODIFIER	CRYAA	ENSG00000160202	Transcript	ENST00000482775	processed_transcript
+21	44589920	44589921	89	INDEL	intron_variant	MODIFIER	CRYAA	1409	Transcript	NM_000394.4	protein_coding
+21	44589920	44589921	89	INDEL	upstream_gene_variant	MODIFIER	CRYAA	1409	Transcript	NM_001363766.1	protein_coding
+21	45649498	45649498	612	INDEL	intron_variant	MODIFIER	ICOSLG	ENSG00000160223	Transcript	ENST00000344330	protein_coding
+21	45649498	45649498	612	INDEL	intron_variant	MODIFIER	ICOSLG	ENSG00000160223	Transcript	ENST00000400377	protein_coding
+21	45649498	45649498	612	INDEL	frameshift_variant	HIGH	ICOSLG	ENSG00000160223	Transcript	ENST00000400379	protein_coding
+21	45649498	45649498	612	INDEL	intron_variant	MODIFIER	ICOSLG	ENSG00000160223	Transcript	ENST00000407780	protein_coding
+21	45649498	45649498	612	INDEL	intron_variant	MODIFIER	ICOSLG	23308	Transcript	NM_001283050.2	protein_coding
+21	45649498	45649498	612	INDEL	intron_variant	MODIFIER	ICOSLG	23308	Transcript	NM_001283051.2	protein_coding
+21	45649498	45649498	612	INDEL	intron_variant	MODIFIER	ICOSLG	23308	Transcript	NM_001283052.2	protein_coding
+21	45649498	45649498	612	INDEL	intron_variant	MODIFIER	ICOSLG	23308	Transcript	NM_001365759.2	protein_coding
+21	45649498	45649498	612	INDEL	intron_variant	MODIFIER	ICOSLG	23308	Transcript	NM_015259.6	protein_coding
+14	106111206	106111206	250	OTHER	stop_lost&coding_sequence_variant&3_prime_UTR_variant&intron_variant&feature_truncation	HIGH	IGHG1	ENSG00000211896	Transcript	ENST00000390542	IG_C_gene
+14	106111206	106111206	250	OTHER	upstream_gene_variant	MODIFIER	IGHG2	ENSG00000211893	Transcript	ENST00000390545	IG_C_gene
+14	106111206	106111206	250	OTHER	transcript_ablation	HIGH	IGHA1	ENSG00000211895	Transcript	ENST00000390547	IG_C_gene
+14	106111206	106111206	250	OTHER	stop_lost&coding_sequence_variant&3_prime_UTR_variant&intron_variant&feature_truncation	HIGH	IGHG1	ENSG00000211896	Transcript	ENST00000390548	IG_C_gene
+14	106111206	106111206	250	OTHER	stop_lost&coding_sequence_variant&3_prime_UTR_variant&intron_variant&feature_truncation	HIGH	IGHG1	ENSG00000211896	Transcript	ENST00000390549	IG_C_gene
+14	106111206	106111206	250	OTHER	transcript_ablation	HIGH	IGHGP	ENSG00000253755	Transcript	ENST00000390555	IG_C_pseudogene
+14	106111206	106111206	250	OTHER	transcript_ablation	HIGH	ELK2AP	ENSG00000213140	Transcript	ENST00000392510	processed_pseudogene
+14	106111206	106111206	250	OTHER	non_coding_transcript_exon_variant&intron_variant&feature_truncation	MODIFIER	RP11-731F5.2	ENSG00000253364	Transcript	ENST00000460164	lincRNA
+14	106111206	106111206	250	OTHER	transcript_ablation	HIGH	RP11-731F5.2	ENSG00000253364	Transcript	ENST00000497397	lincRNA
+14	106111206	106111206	250	OTHER	transcript_ablation	HIGH	AL928768.3	ENSG00000253701	Transcript	ENST00000497872	lincRNA
+14	106111206	106111206	250	OTHER	transcript_ablation	HIGH	IGHEP1	ENSG00000253692	Transcript	ENST00000521393	IG_C_pseudogene
+14	106111206	106111206	250	OTHER	transcript_ablation	HIGH	IGHEP1	ENSG00000253692	Transcript	ENST00000558023	IG_C_pseudogene
+14	106111206	106111206	250	OTHER	transcript_ablation	HIGH	AL901608.1	ENSG00000264024	Transcript	ENST00000581070	miRNA
+14	106111206	106111206	250	OTHER	transcript_ablation	HIGH	ELK2AP	2003	Transcript	NR_046211.1	transcribed_pseudogene
+14	106111206	106111206	250	OTHER	downstream_gene_variant	MODIFIER	MIR8071-2	102466889	Transcript	NR_107059.1	miRNA
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001082036	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001082039	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001573190	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001573191	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00000276336	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001573192	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001573193	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001573194	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001573195	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001573196	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001573197	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001573198	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001082059	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001573199	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001573200	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001573201	
+14	106111206	106111206	250	OTHER	regulatory_region_ablation&regulatory_region_variant	MODERATE			RegulatoryFeature	ENSR00001082063	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_ELK1_AX_TATGCT40NACT_RGAATSCGGAAGYN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_ELK1_AY_TGACGA40NGCA_RCCGGANRNNCGGWATKN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_CLOCK_AX_TCGGGC40NAAT_GGWATGNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_CLOCK_AY_TCTTGA40NGTG_NCACGTGNNNNNNCATWCC_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_FOXI1_AX_TACATC40NATA_RCATWCCNNNNNNNNNNNNNNRTMAACA_m1_c3b1	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_DLX2_AX_TCGAAT40NAGG_RGWATGYTAATKR_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_FIGLA_AX_TGTGAT40NGCA_GGAATKNNCASSTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_ELK1_AY_TGACGA40NGCA_RMATWCCGGAWRN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_FOXI1_AX_TACATC40NATA_RCATWCCNNNNNNNNNNNRTMAACA_m1_c3b1	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_HES7_AX_TAGTGC40NATG_GGWATGYNNNNCRCGYGY_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_EOMES_AX_TCAGCA40NCTC_GGWATGNRAGGTGNNR_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_DLX2_AY_TGTGCT40NCGG_RCATTCYNNNNTAATTR_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_EOMES_AX_TCAGCA40NCTC_RGGTGTNNNNNNNNGAATGYN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_PITX1_AY_TCTTTC40NTTG_RCATWCNNNNNGGATTA_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RGAATGYNNACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_PITX1_AY_TCTTTC40NTTG_RCATWCYNNNNNTAATCC_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD1_W_TCTTAG20NATG_NRMATWCCWN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_ESRRB_AY_TCGATC40NTAT_RCATTCYNNNNCAAGGTCAN_m2_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_ESRRB_AY_TCGATC40NTAT_RCATWCNNNNNNAGGTCA_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_FOXI1_AX_TACATC40NATA_RCATWCCNNNNNNNNNNNNRTMAACA_m1_c3b1	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNCACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_FOXI1_AX_TACATC40NATA_GGWATGYGTMAACA_m1_c3b1	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_EOMES_AY_TGTCGT40NGCG_RGAATGYGTGA_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_SOX15_AY_TCGCCA40NCCT_NACAATRNNNNGAATGY_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_CLOCK_AX_TCGGGC40NAAT_GGWATGNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_TCF3_AY_TCGTTA40NTTT_NCAGGTGNGWATGYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_RFX5_AY_TCGGTT40NTGT_RCATTCNNNNNNNNNNNNNNNNNGCAACN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_FIGLA_AX_TGTGAT40NGCA_RATTCCNNNNNNNNNNCASSTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_GATA3_AY_TGGGTA40NTGT_NGATAASNNNRGWATGY_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNNCACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GABPA_AG_TGGCCC20NCCT_ACCGGAAGTN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CEBPG_ELF1_AS_TATGAC40NTCA_TTGCGYAANNSCGGAAGN_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_TAATKRNNNNGGAAGTN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELF2_AL_TGCAAG20NAAC_NATGCGGAAGTR_m1_c2_DimerNatureMono	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	EHF_AG_TCTTGA20NGTG_NACCCGGAAGTA_m2_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	EGR1_Y_TCTCTT20NGA_NMCGCCCMCGCANN_m2_c2_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ERF_FOXI1_AAC_TAGTCA40NTCT_TGTTKMCGGAWRN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_HOXA2_AAA_TTAACA40NTGT_NCCGGAAGTMATTA_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_NNYMATTANNNNNNNGGAAGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_DLX3_AAA_TAGAGC40NTAG_TAATTRNNNNCGGAARYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELF1_AX_TTTCAC40NGTG_NNMGGAARTGCKGGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	RUNX2_AI_TACCTA40NTCC_WAACCRCAAWAACCRCAN_m2_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	FOXB1_AI_TGAGCA30NCGA_WRWGTMAAYAN_m1_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS1_ELF1_AT_TCCGAT40NAGC_NTGCCGGAAGTN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_NYMATTANNNNNNNNGGAAGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	RUNX2_AI_TACCTA40NTCC_WAACCRCAN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	YY2_Y_TCTTTC20NTTG_NNCCGCCATNW_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_ELF1_AY_TGTGAG40NAGG_GGAATGCGGAAGTN_m2_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RGAATGYNNACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_TCF3_AY_TCGTTA40NTTT_NCAGGTGNGWATGYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNCACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELF2_AL_TGCAAG20NAAC_NATGCGGAAGTR_m1_c2_DimerNatureMono	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNNCACGTG_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ERF_MAX_AAC_TTAGTC40NTCC_RSCGGAANCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP4_MAX_AW_TCCTTG40NGGT_NCAGCTGNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_NNCACGTGNNNGCGGGYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM2_MAX_AAB_TGCCTG40NTCC_NTRNGGGNNNCACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_NNCACGTGNNNNNNNNNNRTGCGGGYRN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_NCACGTGNNYAACSGNN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CEBPG_ELF1_AS_TATGAC40NTCA_TTGCGYAANNSCGGAAGN_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CLOCK_Z_TGAGAT20NAGA_NACACGTGTN_m1_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	FOXO1_ELF1_AS_TTTCAC40NGTG_RWMAACAGGAAGTN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS1_MAX_AT_TATCTG40NTCG_NTGACRNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ERF_FIGLA_AAC_TCGAAC40NGAT_RSCGGAANCASCTGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_NYMATTANNNNNNNNGGAAGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_TAATKRNNNNGGAAGTN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ERF_FOXI1_AAC_TAGTCA40NTCT_TGTTKMCGGAWRN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_ELF1_AX_TATGAC40NTCA_NMCCGGAACCGTTR_m1_c3b0	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	EHF_AG_TCTTGA20NGTG_NACCCGGAAGTA_m2_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	FOXJ2_ELF1_AAF_TAAGAT40NATG_RMAGAAAACCGAANN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNCACGTGN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_NNYMATTANNNNNNNGGAAGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GABPA_AG_TGGCCC20NCCT_ACCGGAAGTN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELF1_AX_TTTCAC40NGTG_NNMGGAARTGCKGGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS1_ELF1_AT_TCCGAT40NAGC_NTGCCGGAAGTN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_TCF3_AY_TGAAGC40NCTA_NCACCTGNNNNNMATTA_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_DLX3_AAA_TAGAGC40NTAG_TAATTRNNNNCGGAARYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_HOXA2_AAA_TTAACA40NTGT_NCCGGAAGTMATTA_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TCF4_AE_TTGCCG20NCCT_NNCACCTGNN_m1_c2_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_TCF3_AAA_TGAAGC40NCTA_CASSTGNNCCGGAWRYN_m1_c3b0	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNCACGTG_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_RTGCGGGNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELF1_AX_TTTCAC40NGTG_NRCCCRNNCGGAAGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNNCACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELK3_AU_TTGGGT40NGGC_RTGCGGGCGGAAGTN_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELK1_AU_TTCGCT40NCTT_RTGCGGGCGGAAGTN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MAX_Y_TGACCT20NGA_CACGTGNNNNNCACGTG_m1_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV5_TCF3_AY_TCGTCC40NGCC_RNCGGAAGNNNNNCASSTGN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_ELF1_AY_TGTGAG40NAGG_GGAATGCGGAAGTN_m2_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RGAATGYNNACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS1_MAX_AT_TATCTG40NTCG_NTGACRNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNCACGTG_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	E2F1_ELK1_AX_TATGTA40NTGT_SGCGCNNNNNNNNNNNCGGAAGN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELK1_SREBF2_AAA_TCTTTG40NACT_RSCGGAANTSRCGTGA_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ERF_FOXI1_AAC_TAGTCA40NTCT_TGTTKMCGGAWRN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_HOXA2_AAA_TTAACA40NTGT_NCCGGAAGTMATTA_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_ELK1_AY_TTCGCT40NCTT_NGCCTNNGGSNNCGGAAGYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CLOCK_Z_TGAGAT20NAGA_NACACGTGTN_m1_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GABPA_AG_TGGCCC20NCCT_ACCGGAAGTN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_ELF1_AY_TGTGAG40NAGG_GGAATGCGGAAGTN_m2_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	YY2_Y_TCTTTC20NTTG_NNCCGCCATNW_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_ELF1_AX_TATGAC40NTCA_NMCCGGAACCGTTR_m1_c3b0	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CEBPG_ELF1_AS_TATGAC40NTCA_TTGCGYAANNSCGGAAGN_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_TAATKRNNNNGGAAGTN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM2_MAX_AAB_TGCCTG40NTCC_NTRNGGGNNNCACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELF2_AL_TGCAAG20NAAC_NATGCGGAAGTR_m1_c2_DimerNatureMono	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	EHF_AG_TCTTGA20NGTG_NACCCGGAAGTA_m2_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	FOXJ2_ELF1_AAF_TAAGAT40NATG_RMAGAAAACCGAANN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ERF_FOXI1_AAC_TAGTCA40NTCT_TGTTKMCGGAWRN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_HOXA2_AAA_TTAACA40NTGT_NCCGGAAGTMATTA_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_NNYMATTANNNNNNNGGAAGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_DLX3_AAA_TAGAGC40NTAG_TAATTRNNNNCGGAARYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELF1_AX_TTTCAC40NGTG_NNMGGAARTGCKGGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_RTGCGGGNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNCACGTGN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELF1_AX_TTTCAC40NGTG_NRCCCRNNCGGAAGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS1_ELF1_AT_TCCGAT40NAGC_NTGCCGGAAGTN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_NYMATTANNNNNNNNGGAAGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELK1_AU_TTCGCT40NCTT_RTGCGGGCGGAAGTN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELK3_AU_TTGGGT40NGGC_RTGCGGGCGGAAGTN_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_PAX5_AY_TGGATG40NTAT_RCATWCCNNNNNNNNNNNNRWGCGTGACN_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELK1_PAX5_AAA_TCAGTT40NTTG_RSCGGAACYACGCWYSANTG_m2_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	PAX1_Y_TAACTT20NTCA_SGTCACGCWTGANTGMA_m2_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_PAX1_AY_TGAACT40NAAG_NNGTCACGNNTCATTNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_PAX1_AY_TGAACT40NAAG_NNMATTAGTCACGCWTSRNTG_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	SRF_W_TGGAAT20NAAT_NNMCCATATAWGGKNN_m2_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	NR2F1_AI_TCTGAC30NAGG_RRGGTCANNNGGTCAN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	NR2F1_AE_TCTGAC20NGA_RRGGTCAN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	NR2F1_AI_TCTGAC30NAGG_DNNNGGTCANNNH_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CUX1_SRF_AY_TGAAAT40NCAA_NCCATAYWNGGWNNNNATCRATN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CEBPG_Q_TAGACG20NTA_NTTRCGCAAY_m1_c2_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GABPA_AG_TGGCCC20NCCT_ACCGGAAGTN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_ELF1_AY_TGTGAG40NAGG_GGAATGCGGAAGTN_m2_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELK1_PAX5_AAA_TCAGTT40NTTG_RSCGGAACYACGCWYSANTG_m2_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_CEBPB_AY_TGACTC40NTCA_NTTRCGYAANNNNNNGGAATGY_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GATA3_AC_TCATGC20NCG_AGATAANN_m1_c2_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_GATA3_AY_TGGGTA40NTGT_NGATAASNNNRGWATGY_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	KLF16_AF_TTGATT20NTA_GCCMCGCCCMC_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RGAATGYNNACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_TCF3_AY_TCGTTA40NTTT_NCAGGTGNGWATGYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_TBX21_AY_TGTTCA40NCTG_ANGTGTGAATWCY_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_NNCACGTGNNNGCGGGYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNCACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELK1_TBX21_AAD_TGTTCA40NCTG_ANGTGNNANNNNNNNNNNNCNNMGGAWNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNNCACGTG_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELF2_AL_TGCAAG20NAAC_NATGCGGAAGTR_m1_c2_DimerNatureMono	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS1_MAX_AT_TATCTG40NTCG_NTGACRNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ATF7_AI_TGGGCG30NCGT_NNATGACGTCATNN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_ELF1_AX_TATGAC40NTCA_NMCCGGAACCGTTR_m1_c3b0	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CEBPG_ELF1_AS_TATGAC40NTCA_TTGCGYAANNSCGGAAGN_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_CEBPB_AX_TGCAGG40NTCG_ATRSGGGNNNNTTRCGYAAN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_NNCACGTGNNNNNNNNNNRTGCGGGYRN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_TAATKRNNNNGGAAGTN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_CEBPD_AAA_TGTAGA40NTGT_RSCGGANNTTGCGYAAN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM2_MAX_AAB_TGCCTG40NTCC_NTRNGGGNNNCACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CLOCK_Z_TGAGAT20NAGA_NACACGTGTN_m1_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	FOXO1_ELF1_AS_TTTCAC40NGTG_RWMAACAGGAAGTN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	EHF_AG_TCTTGA20NGTG_NACCCGGAAGTA_m2_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CUX1_SRF_AY_TGAAAT40NCAA_NCCATAYWNGGWNNNNATCRATN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_NYMATTANNNNNNNNGGAAGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ERF_MAX_AAC_TTAGTC40NTCC_RSCGGAANCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	FOXJ2_ELF1_AAF_TAAGAT40NATG_RMAGAAAACCGAANN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ERF_FOXI1_AAC_TAGTCA40NTCT_TGTTKMCGGAWRN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_HOXA2_AAA_TTAACA40NTGT_NCCGGAAGTMATTA_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_NNYMATTANNNNNNNGGAAGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	SRF_W_TGGAAT20NAAT_NNMCCATATAWGGKNN_m2_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS2_AA_TCGCTG20NGA_TTGACAGSTGTCAA_m2_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELF1_AX_TTTCAC40NGTG_NNMGGAARTGCKGGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS1_ELF1_AT_TCCGAT40NAGC_NTGCCGGAAGTN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	RFX3_SRF_AY_TTACGG40NCGC_NRGYAACNNNNNCCTWWWNNGGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_DLX3_AAA_TAGAGC40NTAG_TAATTRNNNNCGGAARYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ATF4_CEBPB_AT_TCCATG40NCAC_NNATGAYGCAAYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELK1_EOMES_AAA_TGAGTC40NAAC_RGGTGNGANNNNNNNNTNNCACCGGAAGY_m2_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNCACGTGN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP4_MAX_AW_TCCTTG40NGGT_NCAGCTGNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELF1_AX_TTTCAC40NGTG_NRCCCRNNCGGAAGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNCACGTG_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELK1_EOMES_AAA_TGAGTC40NAAC_TNRCACCGGAAGN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNNCACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ZBTB7A_W_TGAATA20NGA_NGCGACCACCNN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_NCACGTGNNYAACSGNN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_EOMES_AX_TCAGCA40NCTC_RGGTGTNNNNNNNNGAATGYN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELK3_AU_TTGGGT40NGGC_RTGCGGGCGGAAGTN_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELK1_AU_TTCGCT40NCTT_RTGCGGGCGGAAGTN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_RTGCGGGNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MAX_Y_TGACCT20NGA_CACGTGNNNNNCACGTG_m1_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	NR2C2_Z_TCGACT20NCAT_RRGGTCAAAGGTCA_m2_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	FOXO1_ELF1_AS_TTTCAC40NGTG_RWMAACAGGAAGTN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_ELF1_AX_TATGAC40NTCA_NMCCGGAACCGTTR_m1_c3b0	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	NR2F1_AE_TCTGAC20NGA_RRGGTCAN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_DLX3_AAA_TAGAGC40NTAG_TAATTRNNNNCGGAARYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELK3_AU_TTGGGT40NGGC_RTGCGGGCGGAAGTN_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_PAX5_AY_TGGATG40NTAT_RCATWCCNNNNNNNNNNNNRWGCGTGACN_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELK1_PAX5_AAA_TCAGTT40NTTG_RSCGGAACYACGCWYSANTG_m2_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_PAX1_AY_TGAACT40NAAG_NNGTCACGNNTCATTNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_PAX1_AY_TGAACT40NAAG_NNMATTAGTCACGCWTSRNTG_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RGAATGYNNACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_TCF3_AY_TCGTTA40NTTT_NCAGGTGNGWATGYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_NNCACGTGNNNGCGGGYN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNNCACGTG_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS1_MAX_AT_TATCTG40NTCG_NTGACRNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	BACH1_AL_TTCCCC20NCCC_ATGACTCAT_m1_c3_DimerNatureMono	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	SRF_W_TGGAAT20NAAT_NNMCCATATAWGGKNN_m2_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	IRF4_AD_TCAAGG20NCG_NCGAAACCGAAACYN_m1_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ERF_FIGLA_AAC_TCGAAC40NGAT_RSCGGAANCASCTGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ERF_MAX_AAC_TTAGTC40NTCC_RSCGGAANCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	FOXJ2_ELF1_AAF_TAAGAT40NATG_RMAGAAAACCGAANN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GABPA_AG_TGGCCC20NCCT_ACCGGAAGTN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_TCF3_AY_TGAAGC40NCTA_NCACCTGNNNNNMATTA_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEF2A_Q_TAATAG20NTA_KCTAWAAATAGM_m1_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TCF4_AE_TTGCCG20NCCT_NNCACCTGNN_m1_c2_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MAX_Y_TGACCT20NGA_CACGTGNNNNNCACGTG_m1_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_NCACGTGNNYAACSGNN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CUX1_SRF_AY_TGAAAT40NCAA_NCCATAYWNGGWNNNNATCRATN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP4_MAX_AW_TCCTTG40NGGT_NCAGCTGNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_TCF3_AAA_TGAAGC40NCTA_CASSTGNNCCGGAWRYN_m1_c3b0	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNCACGTG_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNNCACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNCACGTG_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_RTGCGGGNNNNNNNCACGTGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CLOCK_Z_TGAGAT20NAGA_NACACGTGTN_m1_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_NNCACGTGNNNNNNNNNNRTGCGGGYRN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNCACGTGN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	RFX3_SRF_AY_TTACGG40NCGC_NRGYAACNNNNNCCTWWWNNGGN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	EGR1_Y_TCTCTT20NGA_NMCGCCCMCGCANN_m2_c2_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV5_TCF3_AY_TCGTCC40NGCC_RNCGGAAGNNNNNCASSTGN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GABPA_AG_TGGCCC20NCCT_ACCGGAAGTN_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	YY2_Y_TCTTTC20NTTG_NNCCGCCATNW_m1_c4_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ELF2_AL_TGCAAG20NAAC_NATGCGGAAGTR_m1_c2_DimerNatureMono	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	HOXB2_ELF1_AY_TTTAGG40NTCT_NYMATTANNNNNNNNGGAAGNN_m1_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	EHF_AG_TCTTGA20NGTG_NACCCGGAAGTA_m2_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	MEIS1_ELF1_AT_TCCGAT40NAGC_NTGCCGGAAGTN_m1_c2	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	EBF1_AC_TATAAG20NCG_NNTCCCNNGGGANN_m1_c3_Cell2013	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	ETV2_HOXA2_AAA_TTAACA40NTGT_NCCGGAAGTMATTA_m2_c3	
+14	106111206	106111206	250	OTHER	TFBS_ablation&TF_binding_site_variant	MODERATE			MotifFeature	GCM1_ELF1_AX_TTTCAC40NGTG_NRCCCRNNCGGAAGNN_m1_c3	
+12	42512966	42512966	106	INDEL	stop_gained&frameshift_variant	HIGH	GXYLT1	ENSG00000151233	Transcript	ENST00000280876	protein_coding
+12	42512966	42512966	106	INDEL	stop_gained&frameshift_variant	HIGH	GXYLT1	ENSG00000151233	Transcript	ENST00000398675	protein_coding
+12	42512966	42512966	106	INDEL	stop_gained&frameshift_variant	HIGH	GXYLT1	283464	Transcript	NM_001099650.2	protein_coding
+12	42512966	42512966	106	INDEL	stop_gained&frameshift_variant	HIGH	GXYLT1	283464	Transcript	NM_173601.2	protein_coding
+12	42512966	42512966	106	INDEL	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001547560	promoter_flanking_region
+12	51740388	51740416	155	OTHER	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	CELA1	ENSG00000139610	Transcript	ENST00000293636	protein_coding
+12	51740388	51740416	155	OTHER	downstream_gene_variant	MODIFIER	GALNT6	ENSG00000139629	Transcript	ENST00000543196	protein_coding
+12	51740388	51740416	155	OTHER	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	CELA1	1990	Transcript	NM_001971.6	protein_coding
+12	51740388	51740416	155	OTHER	downstream_gene_variant	MODIFIER	GALNT6	11226	Transcript	NM_007210.4	protein_coding
+12	51740388	51740416	155	OTHER	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001548625	promoter_flanking_region
+2	179309230	179309230	146	OTHER	coding_sequence_variant&intron_variant&feature_truncation	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000325748	protein_coding
+2	179309230	179309230	146	OTHER	upstream_gene_variant	MODIFIER	DFNB59	ENSG00000204311	Transcript	ENST00000409117	protein_coding
+2	179309230	179309230	146	OTHER	stop_lost&coding_sequence_variant&3_prime_UTR_variant&intron_variant&NMD_transcript_variant&feature_truncation	HIGH	PRKRA	ENSG00000180228	Transcript	ENST00000424699	nonsense_mediated_decay
+2	179309230	179309230	146	OTHER	coding_sequence_variant&intron_variant&feature_truncation	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000432031	protein_coding
+2	179309230	179309230	146	OTHER	5_prime_UTR_variant&intron_variant&feature_truncation	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000438687	protein_coding
+2	179309230	179309230	146	OTHER	stop_lost&coding_sequence_variant&3_prime_UTR_variant&intron_variant&NMD_transcript_variant&feature_truncation	HIGH	PRKRA	ENSG00000180228	Transcript	ENST00000448279	nonsense_mediated_decay
+2	179309230	179309230	146	OTHER	downstream_gene_variant	MODIFIER	AC009948.5	ENSG00000223960	Transcript	ENST00000453026	antisense
+2	179309230	179309230	146	OTHER	coding_sequence_variant&intron_variant&feature_truncation	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000457633	protein_coding
+2	179309230	179309230	146	OTHER	non_coding_transcript_exon_variant&intron_variant&feature_truncation	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000460433	processed_transcript
+2	179309230	179309230	146	OTHER	downstream_gene_variant	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000463882	retained_intron
+2	179309230	179309230	146	OTHER	non_coding_transcript_exon_variant&feature_truncation	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000466165	retained_intron
+2	179309230	179309230	146	OTHER	non_coding_transcript_exon_variant&intron_variant&feature_truncation	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000470200	processed_transcript
+2	179309230	179309230	146	OTHER	non_coding_transcript_exon_variant&intron_variant&feature_truncation	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000474793	retained_intron
+2	179309230	179309230	146	OTHER	coding_sequence_variant&intron_variant&feature_truncation	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000487082	protein_coding
+2	179309230	179309230	146	OTHER	upstream_gene_variant	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000490501	retained_intron
+2	179309230	179309230	146	OTHER	upstream_gene_variant	MODIFIER	DFNB59	494513	Transcript	NM_001042702.4	protein_coding
+2	179309230	179309230	146	OTHER	coding_sequence_variant&intron_variant&feature_truncation	MODIFIER	PRKRA	8575	Transcript	NM_001139517.1	protein_coding
+2	179309230	179309230	146	OTHER	coding_sequence_variant&intron_variant&feature_truncation	MODIFIER	PRKRA	8575	Transcript	NM_001139518.1	protein_coding
+2	179309230	179309230	146	OTHER	5_prime_UTR_variant&intron_variant&feature_truncation	MODIFIER	PRKRA	8575	Transcript	NM_001316362.2	protein_coding
+2	179309230	179309230	146	OTHER	upstream_gene_variant	MODIFIER	DFNB59	494513	Transcript	NM_001353775.1	protein_coding
+2	179309230	179309230	146	OTHER	upstream_gene_variant	MODIFIER	DFNB59	494513	Transcript	NM_001353776.1	protein_coding
+2	179309230	179309230	146	OTHER	upstream_gene_variant	MODIFIER	DFNB59	494513	Transcript	NM_001353777.1	protein_coding
+2	179309230	179309230	146	OTHER	upstream_gene_variant	MODIFIER	DFNB59	494513	Transcript	NM_001353778.1	protein_coding
+2	179309230	179309230	146	OTHER	coding_sequence_variant&intron_variant&feature_truncation	MODIFIER	PRKRA	8575	Transcript	NM_003690.5	protein_coding
+2	179309230	179309230	146	OTHER	downstream_gene_variant	MODIFIER	LOC101927027	101927027	Transcript	NR_110204.1	lncRNA
+2	179315138	179315692	238	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	PRKRA	ENSG00000180228	Transcript	ENST00000325748	protein_coding
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	DFNB59	ENSG00000204311	Transcript	ENST00000375129	protein_coding
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	DFNB59	ENSG00000204311	Transcript	ENST00000409117	protein_coding
+2	179315138	179315692	238	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&NMD_transcript_variant	HIGH	PRKRA	ENSG00000180228	Transcript	ENST00000424699	nonsense_mediated_decay
+2	179315138	179315692	238	INDEL	coding_sequence_variant&5_prime_UTR_variant	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000432031	protein_coding
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	AC009948.7	ENSG00000238082	Transcript	ENST00000437039	processed_pseudogene
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	DFNB59	ENSG00000204311	Transcript	ENST00000437056	retained_intron
+2	179315138	179315692	238	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	PRKRA	ENSG00000180228	Transcript	ENST00000438687	protein_coding
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	DFNB59	ENSG00000204311	Transcript	ENST00000442710	protein_coding
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	DFNB59	ENSG00000204311	Transcript	ENST00000444615	nonsense_mediated_decay
+2	179315138	179315692	238	INDEL	coding_sequence_variant&5_prime_UTR_variant&NMD_transcript_variant	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000448279	nonsense_mediated_decay
+2	179315138	179315692	238	INDEL	start_lost&5_prime_UTR_variant	HIGH	PRKRA	ENSG00000180228	Transcript	ENST00000457633	protein_coding
+2	179315138	179315692	238	INDEL	splice_acceptor_variant&splice_donor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	PRKRA	ENSG00000180228	Transcript	ENST00000460433	processed_transcript
+2	179315138	179315692	238	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&non_coding_transcript_variant	HIGH	PRKRA	ENSG00000180228	Transcript	ENST00000463882	retained_intron
+2	179315138	179315692	238	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&non_coding_transcript_variant	HIGH	PRKRA	ENSG00000180228	Transcript	ENST00000466165	retained_intron
+2	179315138	179315692	238	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant&non_coding_transcript_variant	HIGH	PRKRA	ENSG00000180228	Transcript	ENST00000470200	processed_transcript
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	PRKRA	ENSG00000180228	Transcript	ENST00000474793	retained_intron
+2	179315138	179315692	238	INDEL	splice_acceptor_variant&splice_donor_variant&5_prime_UTR_variant&intron_variant	HIGH	PRKRA	ENSG00000180228	Transcript	ENST00000487082	protein_coding
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	DFNB59	494513	Transcript	NM_001042702.4	protein_coding
+2	179315138	179315692	238	INDEL	coding_sequence_variant&5_prime_UTR_variant	MODIFIER	PRKRA	8575	Transcript	NM_001139517.1	protein_coding
+2	179315138	179315692	238	INDEL	splice_acceptor_variant&splice_donor_variant&5_prime_UTR_variant&intron_variant	HIGH	PRKRA	8575	Transcript	NM_001139518.1	protein_coding
+2	179315138	179315692	238	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	PRKRA	8575	Transcript	NM_001316362.2	protein_coding
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	DFNB59	494513	Transcript	NM_001353775.1	protein_coding
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	DFNB59	494513	Transcript	NM_001353776.1	protein_coding
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	DFNB59	494513	Transcript	NM_001353777.1	protein_coding
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	DFNB59	494513	Transcript	NM_001353778.1	protein_coding
+2	179315138	179315692	238	INDEL	upstream_gene_variant	MODIFIER	DFNB59	494513	Transcript	NM_001369912.1	protein_coding
+2	179315138	179315692	238	INDEL	splice_acceptor_variant&splice_donor_variant&intron_variant	HIGH	PRKRA	8575	Transcript	NM_003690.5	protein_coding
+2	179315138	179315692	238	INDEL	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00000126971	promoter
+1	248031354	248031411	91	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TRIM58	ENSG00000162722	Transcript	ENST00000366481	protein_coding
+1	248031354	248031411	91	INDEL	splice_donor_variant&5_prime_UTR_variant&intron_variant	HIGH	OR2W3	ENSG00000238243	Transcript	ENST00000537741	protein_coding
+1	248031354	248031411	91	INDEL	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	TRIM58	25893	Transcript	NM_015431.4	protein_coding

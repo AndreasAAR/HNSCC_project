@@ -1,0 +1,376 @@
+CHR	START	END	DP	TYPE	EFFECT	IMPACT	GENE	GENE_ID	FEATURE	TRANSCRIPT_ID	BIOTYPE
+22	20780026	20780031	56	OTHER	frameshift_variant	HIGH	SCARF2	ENSG00000244486	Transcript	ENST00000266214	protein_coding
+22	20780026	20780031	56	OTHER	frameshift_variant	HIGH	SCARF2	ENSG00000244486	Transcript	ENST00000405555	protein_coding
+22	20780026	20780031	56	OTHER	downstream_gene_variant	MODIFIER	KLHL22	ENSG00000099910	Transcript	ENST00000429594	nonsense_mediated_decay
+22	20780026	20780031	56	OTHER	downstream_gene_variant	MODIFIER	SCARF2	ENSG00000244486	Transcript	ENST00000494535	retained_intron
+22	20780026	20780031	56	OTHER	splice_region_variant&coding_sequence_variant	LOW	SCARF2	91179	Transcript	NM_153334.7	protein_coding
+22	20780026	20780031	56	OTHER	splice_region_variant&coding_sequence_variant	LOW	SCARF2	91179	Transcript	NM_182895.5	protein_coding
+22	20780026	20780031	56	OTHER	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001649561	CTCF_binding_site
+7	142468305	142468305	207	OTHER	splice_donor_variant&non_coding_transcript_variant	HIGH	PRSS3P1	ENSG00000250591	Transcript	ENST00000503996	unprocessed_pseudogene
+7	142468305	142468305	207	OTHER	upstream_gene_variant	MODIFIER	PRSS3P1	ENSG00000250591	Transcript	ENST00000539842	unprocessed_pseudogene
+18	20606201	20606201	70	SNP	stop_lost	HIGH	RBBP8	ENSG00000101773	Transcript	ENST00000327155	protein_coding
+18	20606201	20606201	70	SNP	stop_lost	HIGH	RBBP8	ENSG00000101773	Transcript	ENST00000360790	protein_coding
+18	20606201	20606201	70	SNP	stop_lost	HIGH	RBBP8	ENSG00000101773	Transcript	ENST00000399722	protein_coding
+18	20606201	20606201	70	SNP	synonymous_variant	LOW	RBBP8	ENSG00000101773	Transcript	ENST00000399725	protein_coding
+18	20606201	20606201	70	SNP	downstream_gene_variant	MODIFIER	Y_RNA	ENSG00000223023	Transcript	ENST00000411091	misc_RNA
+18	20606201	20606201	70	SNP	stop_lost	HIGH	RBBP8	ENSG00000101773	Transcript	ENST00000581687	protein_coding
+18	20606201	20606201	70	SNP	synonymous_variant	LOW	RBBP8	ENSG00000101773	Transcript	ENST00000583057	protein_coding
+18	20606201	20606201	70	SNP	stop_lost	HIGH	RBBP8	5932	Transcript	NM_002894.3	protein_coding
+18	20606201	20606201	70	SNP	stop_lost	HIGH	RBBP8	5932	Transcript	NM_203291.1	protein_coding
+18	20606201	20606201	70	SNP	synonymous_variant	LOW	RBBP8	5932	Transcript	NM_203292.1	protein_coding
+5	77745855	77745862	76	OTHER	intron_variant&non_coding_transcript_variant	MODIFIER	SCAMP1	ENSG00000085365	Transcript	ENST00000320280	processed_transcript
+5	77745855	77745862	76	OTHER	splice_donor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	SCAMP1	ENSG00000085365	Transcript	ENST00000339292	processed_transcript
+5	77745855	77745862	76	OTHER	splice_donor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	SCAMP1	ENSG00000085365	Transcript	ENST00000508822	processed_transcript
+5	77745855	77745862	76	OTHER	splice_donor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	SCAMP1	ENSG00000085365	Transcript	ENST00000509998	processed_transcript
+5	77745855	77745862	76	OTHER	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	SCAMP1	ENSG00000085365	Transcript	ENST00000538629	protein_coding
+5	77745855	77745862	76	OTHER	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	SCAMP1	9522	Transcript	NM_001290229.2	protein_coding
+5	77745855	77745862	76	OTHER	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	SCAMP1	9522	Transcript	NM_004866.6	protein_coding
+5	77745855	77745862	76	OTHER	splice_donor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	SCAMP1	9522	Transcript	NR_110885.2	misc_RNA
+2	91843025	91843025	744	SNP	splice_acceptor_variant&non_coding_transcript_variant	HIGH	AC027612.6	ENSG00000143429	Transcript	ENST00000271699	transcribed_unprocessed_pseudogene
+2	91843025	91843025	744	SNP	splice_region_variant&non_coding_transcript_exon_variant	LOW	AC027612.6	ENSG00000143429	Transcript	ENST00000423774	transcribed_unprocessed_pseudogene
+2	91843025	91843025	744	SNP	splice_acceptor_variant&non_coding_transcript_variant	HIGH	AC027612.6	ENSG00000143429	Transcript	ENST00000544283	processed_transcript
+2	91843025	91843025	744	SNP	splice_acceptor_variant&non_coding_transcript_variant	HIGH	AC027612.6	ENSG00000143429	Transcript	ENST00000608018	processed_transcript
+2	91843025	91843025	744	SNP	intron_variant&non_coding_transcript_variant	MODIFIER	AC027612.6	ENSG00000143429	Transcript	ENST00000608501	processed_transcript
+2	91843025	91843025	744	SNP	splice_acceptor_variant&non_coding_transcript_variant	HIGH	AC027612.6	ENSG00000143429	Transcript	ENST00000608531	processed_transcript
+2	91843025	91843025	744	SNP	intron_variant&non_coding_transcript_variant	MODIFIER	AC027612.6	ENSG00000143429	Transcript	ENST00000609777	processed_transcript
+2	91843025	91843025	744	SNP	splice_acceptor_variant&non_coding_transcript_variant	HIGH	LOC654342	654342	Transcript	NR_027238.1	transcribed_pseudogene
+2	120704166	120704166	60	OTHER	intron_variant	MODIFIER	PTPN4	ENSG00000088179	Transcript	ENST00000263708	protein_coding
+2	120704166	120704166	60	OTHER	intron_variant&NMD_transcript_variant	MODIFIER	PTPN4	ENSG00000088179	Transcript	ENST00000430976	nonsense_mediated_decay
+2	120704166	120704166	60	OTHER	frameshift_variant	HIGH	PTPN4	ENSG00000088179	Transcript	ENST00000431283	protein_coding
+2	120704166	120704166	60	OTHER	intron_variant	MODIFIER	PTPN4	ENSG00000088179	Transcript	ENST00000544261	protein_coding
+2	120704166	120704166	60	OTHER	intron_variant	MODIFIER	PTPN4	5775	Transcript	NM_002830.4	protein_coding
+2	138762797	138762797	73	SNP	splice_donor_variant	HIGH	HNMT	ENSG00000150540	Transcript	ENST00000280097	protein_coding
+2	138762797	138762797	73	SNP	splice_donor_variant	HIGH	HNMT	ENSG00000150540	Transcript	ENST00000410115	protein_coding
+2	138762797	138762797	73	SNP	downstream_gene_variant	MODIFIER	HNMT	ENSG00000150540	Transcript	ENST00000467390	processed_transcript
+2	138762797	138762797	73	SNP	splice_donor_variant&non_coding_transcript_variant	HIGH	HNMT	ENSG00000150540	Transcript	ENST00000485653	processed_transcript
+2	138762797	138762797	73	SNP	splice_donor_variant	HIGH	HNMT	3176	Transcript	NM_006895.3	protein_coding
+17	4796268	4796277	91	OTHER	downstream_gene_variant	MODIFIER	CHRNE	ENSG00000108556	Transcript	ENST00000293780	protein_coding
+17	4796268	4796277	91	OTHER	splice_acceptor_variant&coding_sequence_variant&intron_variant	HIGH	MINK1	ENSG00000141503	Transcript	ENST00000347992	protein_coding
+17	4796268	4796277	91	OTHER	splice_acceptor_variant&coding_sequence_variant&intron_variant	HIGH	MINK1	ENSG00000141503	Transcript	ENST00000355280	protein_coding
+17	4796268	4796277	91	OTHER	splice_acceptor_variant&coding_sequence_variant&intron_variant	HIGH	MINK1	ENSG00000141503	Transcript	ENST00000453408	protein_coding
+17	4796268	4796277	91	OTHER	splice_acceptor_variant&3_prime_UTR_variant&intron_variant&NMD_transcript_variant	HIGH	MINK1	ENSG00000141503	Transcript	ENST00000571207	nonsense_mediated_decay
+17	4796268	4796277	91	OTHER	upstream_gene_variant	MODIFIER	MINK1	ENSG00000141503	Transcript	ENST00000571526	retained_intron
+17	4796268	4796277	91	OTHER	upstream_gene_variant	MODIFIER	MINK1	ENSG00000141503	Transcript	ENST00000572304	retained_intron
+17	4796268	4796277	91	OTHER	splice_acceptor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	MINK1	ENSG00000141503	Transcript	ENST00000572330	retained_intron
+17	4796268	4796277	91	OTHER	splice_acceptor_variant&non_coding_transcript_exon_variant&intron_variant	HIGH	MINK1	ENSG00000141503	Transcript	ENST00000572629	retained_intron
+17	4796268	4796277	91	OTHER	splice_acceptor_variant&3_prime_UTR_variant&intron_variant&NMD_transcript_variant	HIGH	MINK1	ENSG00000141503	Transcript	ENST00000574453	nonsense_mediated_decay
+17	4796268	4796277	91	OTHER	upstream_gene_variant	MODIFIER	MINK1	ENSG00000141503	Transcript	ENST00000574871	retained_intron
+17	4796268	4796277	91	OTHER	upstream_gene_variant	MODIFIER	MINK1	ENSG00000141503	Transcript	ENST00000575511	retained_intron
+17	4796268	4796277	91	OTHER	upstream_gene_variant	MODIFIER	MINK1	ENSG00000141503	Transcript	ENST00000576037	protein_coding
+17	4796268	4796277	91	OTHER	downstream_gene_variant	MODIFIER	CHRNE	1145	Transcript	NM_000080.4	protein_coding
+17	4796268	4796277	91	OTHER	splice_acceptor_variant&coding_sequence_variant&intron_variant	HIGH	MINK1	50488	Transcript	NM_001024937.4	protein_coding
+17	4796268	4796277	91	OTHER	splice_acceptor_variant&coding_sequence_variant&intron_variant	HIGH	MINK1	50488	Transcript	NM_001321236.2	protein_coding
+17	4796268	4796277	91	OTHER	splice_acceptor_variant&coding_sequence_variant&intron_variant	HIGH	MINK1	50488	Transcript	NM_015716.5	protein_coding
+17	4796268	4796277	91	OTHER	splice_acceptor_variant&coding_sequence_variant&intron_variant	HIGH	MINK1	50488	Transcript	NM_153827.5	protein_coding
+17	4796268	4796277	91	OTHER	splice_acceptor_variant&coding_sequence_variant&intron_variant	HIGH	MINK1	50488	Transcript	NM_170663.5	protein_coding
+14	22476139	22476147	51	OTHER	downstream_gene_variant	MODIFIER	TRAV18	ENSG00000211798	Transcript	ENST00000390446	TR_V_gene
+14	22476139	22476147	51	OTHER	frameshift_variant	HIGH	TRAV19	ENSG00000211799	Transcript	ENST00000390447	TR_V_gene
+14	22476139	22476147	51	OTHER	upstream_gene_variant	MODIFIER	AE000660.4	ENSG00000258705	Transcript	ENST00000553572	processed_pseudogene
+14	60903711	60903711	103	SNP	stop_gained	HIGH	C14orf39	ENSG00000179008	Transcript	ENST00000321731	protein_coding
+14	60903711	60903711	103	SNP	intron_variant&NMD_transcript_variant	MODIFIER	C14orf39	ENSG00000179008	Transcript	ENST00000498565	nonsense_mediated_decay
+14	60903711	60903711	103	SNP	3_prime_UTR_variant&NMD_transcript_variant	MODIFIER	C14orf39	ENSG00000179008	Transcript	ENST00000557138	nonsense_mediated_decay
+14	60903711	60903711	103	SNP	stop_gained	HIGH	C14orf39	317761	Transcript	NM_174978.3	protein_coding
+14	106373085	106373086	69	MNP	upstream_gene_variant	MODIFIER	IGHD5-12	ENSG00000211921	Transcript	ENST00000390581	IG_D_gene
+14	106373085	106373086	69	MNP	upstream_gene_variant	MODIFIER	IGHD3-10	ENSG00000211923	Transcript	ENST00000390583	IG_D_gene
+14	106373085	106373086	69	MNP	upstream_gene_variant	MODIFIER	IGHD3-9	ENSG00000211924	Transcript	ENST00000390584	IG_D_gene
+14	106373085	106373086	69	MNP	stop_lost	HIGH	IGHD2-8	ENSG00000211925	Transcript	ENST00000390585	IG_D_gene
+14	106373085	106373086	69	MNP	downstream_gene_variant	MODIFIER	IGHD1-7	ENSG00000237197	Transcript	ENST00000430425	IG_D_gene
+14	106373085	106373086	69	MNP	upstream_gene_variant	MODIFIER	IGHD4-11	ENSG00000232543	Transcript	ENST00000431440	IG_D_gene
+14	106373085	106373086	69	MNP	downstream_gene_variant	MODIFIER	IGHD6-6	ENSG00000228131	Transcript	ENST00000454691	IG_D_gene
+20	239946	239946	78	SNP	stop_lost	HIGH	DEFB132	ENSG00000186458	Transcript	ENST00000382376	protein_coding
+20	239946	239946	78	SNP	stop_lost	HIGH	DEFB132	400830	Transcript	NM_207469.3	protein_coding
+20	239946	239946	78	SNP	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00000296998	CTCF_binding_site
+20	239946	239946	78	SNP	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001638221	promoter_flanking_region
+4	70160277	70160282	76	INDEL	frameshift_variant	HIGH	UGT2B28	ENSG00000135226	Transcript	ENST00000335568	protein_coding
+4	70160277	70160282	76	INDEL	3_prime_UTR_variant	MODIFIER	UGT2B28	ENSG00000135226	Transcript	ENST00000511240	protein_coding
+4	70160277	70160282	76	INDEL	3_prime_UTR_variant	MODIFIER	UGT2B28	54490	Transcript	NM_001207004.2	protein_coding
+4	70160277	70160282	76	INDEL	frameshift_variant	HIGH	UGT2B28	54490	Transcript	NM_053039.2	protein_coding
+12	40879421	40879421	127	OTHER	3_prime_UTR_variant&feature_truncation	MODIFIER	MUC19	ENSG00000205592	Transcript	ENST00000454784	protein_coding
+12	40879421	40879421	127	OTHER	frameshift_variant&feature_truncation	HIGH	MUC19	283463	Transcript	NM_173600.2	protein_coding
+X	104464278	104464282	51	OTHER	intron_variant	MODIFIER	IL1RAPL2	ENSG00000189108	Transcript	ENST00000344799	protein_coding
+X	104464278	104464282	51	OTHER	frameshift_variant	HIGH	TEX13A	ENSG00000133149	Transcript	ENST00000372575	protein_coding
+X	104464278	104464282	51	OTHER	frameshift_variant	HIGH	TEX13A	ENSG00000133149	Transcript	ENST00000372578	protein_coding
+X	104464278	104464282	51	OTHER	intron_variant	MODIFIER	IL1RAPL2	ENSG00000189108	Transcript	ENST00000372582	protein_coding
+X	104464278	104464282	51	OTHER	splice_donor_variant&frameshift_variant	HIGH	TEX13A	ENSG00000133149	Transcript	ENST00000413579	protein_coding
+X	104464278	104464282	51	OTHER	splice_acceptor_variant&coding_sequence_variant	HIGH	TEX13A	56157	Transcript	NM_001291277.1	protein_coding
+X	104464278	104464282	51	OTHER	intron_variant	MODIFIER	IL1RAPL2	26280	Transcript	NM_017416.2	protein_coding
+X	104464278	104464282	51	OTHER	splice_acceptor_variant&coding_sequence_variant	HIGH	TEX13A	56157	Transcript	NM_031274.4	protein_coding
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000220496	protein_coding
+15	41099904	41099904	130	INDEL	frameshift_variant	HIGH	ZFYVE19	ENSG00000166140	Transcript	ENST00000299173	protein_coding
+15	41099904	41099904	130	INDEL	intron_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000336455	protein_coding
+15	41099904	41099904	130	INDEL	frameshift_variant	HIGH	ZFYVE19	ENSG00000166140	Transcript	ENST00000355341	protein_coding
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000559238	nonsense_mediated_decay
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000559310	nonsense_mediated_decay
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000560065	nonsense_mediated_decay
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000560078	retained_intron
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000560301	retained_intron
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000560645	nonsense_mediated_decay
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	ENSG00000104129	Transcript	ENST00000561018	nonsense_mediated_decay
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000561617	protein_coding
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000561768	nonsense_mediated_decay
+15	41099904	41099904	130	INDEL	non_coding_transcript_exon_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000563530	processed_transcript
+15	41099904	41099904	130	INDEL	intron_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000564258	protein_coding
+15	41099904	41099904	130	INDEL	frameshift_variant	HIGH	ZFYVE19	ENSG00000166140	Transcript	ENST00000566407	protein_coding
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000566767	protein_coding
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000567756	nonsense_mediated_decay
+15	41099904	41099904	130	INDEL	frameshift_variant&NMD_transcript_variant	HIGH	ZFYVE19	ENSG00000166140	Transcript	ENST00000568062	nonsense_mediated_decay
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000569057	nonsense_mediated_decay
+15	41099904	41099904	130	INDEL	intron_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000570108	protein_coding
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	ZFYVE19	ENSG00000166140	Transcript	ENST00000570162	retained_intron
+15	41099904	41099904	130	INDEL	frameshift_variant	HIGH	ZFYVE19	84936	Transcript	NM_001077268.2	protein_coding
+15	41099904	41099904	130	INDEL	frameshift_variant	HIGH	ZFYVE19	84936	Transcript	NM_001258420.2	protein_coding
+15	41099904	41099904	130	INDEL	intron_variant	MODIFIER	ZFYVE19	84936	Transcript	NM_001258421.2	protein_coding
+15	41099904	41099904	130	INDEL	upstream_gene_variant	MODIFIER	DNAJC17	55192	Transcript	NM_018163.3	protein_coding
+15	41099904	41099904	130	INDEL	intron_variant	MODIFIER	ZFYVE19	84936	Transcript	NM_032850.5	protein_coding
+15	41099904	41099904	130	INDEL	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00000075564	promoter
+15	41099904	41099904	130	INDEL	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00908356251	
+6	160560883	160560905	94	OTHER	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	SLC22A1	ENSG00000175003	Transcript	ENST00000324965	protein_coding
+6	160560883	160560905	94	OTHER	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	SLC22A1	ENSG00000175003	Transcript	ENST00000366963	protein_coding
+6	160560883	160560905	94	OTHER	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	SLC22A1	ENSG00000175003	Transcript	ENST00000457470	protein_coding
+6	160560883	160560905	94	OTHER	intron_variant&NMD_transcript_variant	MODIFIER	SLC22A1	ENSG00000175003	Transcript	ENST00000460902	nonsense_mediated_decay
+6	160560883	160560905	94	OTHER	splice_donor_variant&3_prime_UTR_variant&intron_variant&NMD_transcript_variant	HIGH	SLC22A1	ENSG00000175003	Transcript	ENST00000539263	nonsense_mediated_decay
+6	160560883	160560905	94	OTHER	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	SLC22A1	6580	Transcript	NM_003057.3	protein_coding
+6	160560883	160560905	94	OTHER	splice_donor_variant&coding_sequence_variant&intron_variant	HIGH	SLC22A1	6580	Transcript	NM_153187.1	protein_coding
+6	160560883	160560905	94	OTHER	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001382808	promoter_flanking_region
+8	19218826	19218826	83	SNP	splice_donor_variant	HIGH	SH2D4A	ENSG00000104611	Transcript	ENST00000265807	protein_coding
+8	19218826	19218826	83	SNP	splice_donor_variant	HIGH	SH2D4A	ENSG00000104611	Transcript	ENST00000518040	protein_coding
+8	19218826	19218826	83	SNP	non_coding_transcript_exon_variant	MODIFIER	SH2D4A	ENSG00000104611	Transcript	ENST00000518093	retained_intron
+8	19218826	19218826	83	SNP	splice_donor_variant	HIGH	SH2D4A	ENSG00000104611	Transcript	ENST00000519207	protein_coding
+8	19218826	19218826	83	SNP	upstream_gene_variant	MODIFIER	SH2D4A	ENSG00000104611	Transcript	ENST00000522328	retained_intron
+8	19218826	19218826	83	SNP	downstream_gene_variant	MODIFIER	SH2D4A	ENSG00000104611	Transcript	ENST00000523736	protein_coding
+8	19218826	19218826	83	SNP	splice_donor_variant	HIGH	SH2D4A	63898	Transcript	NM_001174159.1	protein_coding
+8	19218826	19218826	83	SNP	splice_donor_variant	HIGH	SH2D4A	63898	Transcript	NM_001174160.1	protein_coding
+8	19218826	19218826	83	SNP	splice_donor_variant	HIGH	SH2D4A	63898	Transcript	NM_001363110.1	protein_coding
+8	19218826	19218826	83	SNP	splice_donor_variant	HIGH	SH2D4A	63898	Transcript	NM_001363111.1	protein_coding
+8	19218826	19218826	83	SNP	splice_donor_variant	HIGH	SH2D4A	63898	Transcript	NM_022071.4	protein_coding
+8	19218826	19218826	83	SNP	splice_donor_variant&non_coding_transcript_variant	HIGH	SH2D4A	63898	Transcript	NR_156444.1	misc_RNA
+10	3208567	3208567	85	INDEL	stop_gained&frameshift_variant	HIGH	PITRM1	ENSG00000107959	Transcript	ENST00000224949	protein_coding
+10	3208567	3208567	85	INDEL	stop_gained&frameshift_variant	HIGH	PITRM1	ENSG00000107959	Transcript	ENST00000380989	protein_coding
+10	3208567	3208567	85	INDEL	stop_gained&frameshift_variant	HIGH	PITRM1	ENSG00000107959	Transcript	ENST00000451104	protein_coding
+10	3208567	3208567	85	INDEL	upstream_gene_variant	MODIFIER	PITRM1	ENSG00000107959	Transcript	ENST00000488065	processed_transcript
+10	3208567	3208567	85	INDEL	intron_variant&non_coding_transcript_variant	MODIFIER	PITRM1-AS1	ENSG00000237399	Transcript	ENST00000598280	antisense
+10	3208567	3208567	85	INDEL	downstream_gene_variant	MODIFIER	PITRM1-AS1	ENSG00000237399	Transcript	ENST00000601046	antisense
+10	3208567	3208567	85	INDEL	stop_gained&frameshift_variant	HIGH	PITRM1	10531	Transcript	NM_001242307.1	protein_coding
+10	3208567	3208567	85	INDEL	stop_gained&frameshift_variant	HIGH	PITRM1	10531	Transcript	NM_001242309.1	protein_coding
+10	3208567	3208567	85	INDEL	stop_gained&frameshift_variant	HIGH	PITRM1	10531	Transcript	NM_001347725.2	protein_coding
+10	3208567	3208567	85	INDEL	5_prime_UTR_variant	MODIFIER	PITRM1	10531	Transcript	NM_001347726.2	protein_coding
+10	3208567	3208567	85	INDEL	5_prime_UTR_variant	MODIFIER	PITRM1	10531	Transcript	NM_001347727.2	protein_coding
+10	3208567	3208567	85	INDEL	5_prime_UTR_variant	MODIFIER	PITRM1	10531	Transcript	NM_001347728.2	protein_coding
+10	3208567	3208567	85	INDEL	stop_gained&frameshift_variant	HIGH	PITRM1	10531	Transcript	NM_001347729.1	protein_coding
+10	3208567	3208567	85	INDEL	stop_gained&frameshift_variant	HIGH	PITRM1	10531	Transcript	NM_001347730.1	protein_coding
+10	3208567	3208567	85	INDEL	stop_gained&frameshift_variant	HIGH	PITRM1	10531	Transcript	NM_014889.4	protein_coding
+10	3208567	3208567	85	INDEL	non_coding_transcript_exon_variant	MODIFIER	PITRM1	10531	Transcript	NR_144638.2	misc_RNA
+10	3208567	3208567	85	INDEL	non_coding_transcript_exon_variant	MODIFIER	PITRM1	10531	Transcript	NR_144639.2	misc_RNA
+10	3208567	3208567	85	INDEL	non_coding_transcript_exon_variant	MODIFIER	PITRM1	10531	Transcript	NR_144640.2	misc_RNA
+10	3208567	3208567	85	INDEL	non_coding_transcript_exon_variant	MODIFIER	PITRM1	10531	Transcript	NR_144641.2	misc_RNA
+10	43691996	43692013	99	INDEL	downstream_gene_variant	MODIFIER	RASGEF1A	ENSG00000198915	Transcript	ENST00000374455	protein_coding
+10	43691996	43692013	99	INDEL	splice_acceptor_variant&intron_variant	HIGH	RASGEF1A	ENSG00000198915	Transcript	ENST00000374459	protein_coding
+10	43691996	43692013	99	INDEL	splice_acceptor_variant&intron_variant	HIGH	RASGEF1A	ENSG00000198915	Transcript	ENST00000395809	protein_coding
+10	43691996	43692013	99	INDEL	splice_acceptor_variant&intron_variant	HIGH	RASGEF1A	ENSG00000198915	Transcript	ENST00000395810	protein_coding
+10	43691996	43692013	99	INDEL	downstream_gene_variant	MODIFIER	RASGEF1A	ENSG00000198915	Transcript	ENST00000472864	processed_transcript
+10	43691996	43692013	99	INDEL	splice_acceptor_variant&intron_variant	HIGH	RASGEF1A	221002	Transcript	NM_001282862.1	protein_coding
+10	43691996	43692013	99	INDEL	splice_acceptor_variant&intron_variant	HIGH	RASGEF1A	221002	Transcript	NM_145313.4	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000286627	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000286628	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000354353	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000372403	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000372408	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000372421	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000372437	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000372440	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000372443	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000404771	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000404857	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000406533	protein_coding
+10	78872148	78872149	108	INDEL	upstream_gene_variant	MODIFIER	KCNMA1	ENSG00000156113	Transcript	ENST00000434208	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000457953	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	ENSG00000156113	Transcript	ENST00000604624	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_001014797.3	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_001161352.2	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_001161353.2	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_001271518.2	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_001271519.2	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_001322829.2	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_001322830.2	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_001322832.2	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_001322835.2	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_001322836.2	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_001322837.2	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_001322838.1	protein_coding
+10	78872148	78872149	108	INDEL	frameshift_variant	HIGH	KCNMA1	3778	Transcript	NM_002247.4	protein_coding
+10	78872148	78872149	108	INDEL	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00000260289	CTCF_binding_site
+10	78872148	78872149	108	INDEL	regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00000982235	promoter_flanking_region
+10	78872148	78872149	108	INDEL	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00642037904	
+10	78872148	78872149	108	INDEL	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00910331326	
+10	78872148	78872149	108	INDEL	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00717297780	
+10	78872148	78872149	108	INDEL	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00641434851	
+10	78872148	78872149	108	INDEL	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00716089938	
+10	78872148	78872149	108	INDEL	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00908422120	
+10	78872148	78872149	108	INDEL	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00704408026	
+10	78872148	78872149	108	INDEL	TF_binding_site_variant	MODIFIER			MotifFeature	ENSM00898819170	
+9	107361178	107361182	119	INDEL	frameshift_variant	HIGH	OR13C5	ENSG00000255800	Transcript	ENST00000374779	protein_coding
+9	107361178	107361182	119	INDEL	frameshift_variant	HIGH	OR13C5	138799	Transcript	NM_001004482.1	protein_coding
+9	134003863	134003863	65	SNP	stop_gained	HIGH	NUP214	ENSG00000126883	Transcript	ENST00000359428	protein_coding
+9	134003863	134003863	65	SNP	stop_gained	HIGH	NUP214	ENSG00000126883	Transcript	ENST00000411637	protein_coding
+9	134003863	134003863	65	SNP	stop_gained	HIGH	NUP214	ENSG00000126883	Transcript	ENST00000451030	protein_coding
+9	134003863	134003863	65	SNP	downstream_gene_variant	MODIFIER	RNU6-881P	ENSG00000252622	Transcript	ENST00000516813	snRNA
+9	134003863	134003863	65	SNP	upstream_gene_variant	MODIFIER	NUP214	ENSG00000126883	Transcript	ENST00000525561	retained_intron
+9	134003863	134003863	65	SNP	upstream_gene_variant	MODIFIER	NUP214	ENSG00000126883	Transcript	ENST00000526412	processed_transcript
+9	134003863	134003863	65	SNP	upstream_gene_variant	MODIFIER	NUP214	ENSG00000126883	Transcript	ENST00000530843	processed_transcript
+9	134003863	134003863	65	SNP	stop_gained	HIGH	NUP214	ENSG00000126883	Transcript	ENST00000531584	protein_coding
+9	134003863	134003863	65	SNP	downstream_gene_variant	MODIFIER	RP11-544A12.4	ENSG00000236986	Transcript	ENST00000586290	antisense
+9	134003863	134003863	65	SNP	downstream_gene_variant	MODIFIER	RP11-544A12.4	ENSG00000236986	Transcript	ENST00000587264	antisense
+9	134003863	134003863	65	SNP	downstream_gene_variant	MODIFIER	RP11-544A12.4	ENSG00000236986	Transcript	ENST00000587408	antisense
+9	134003863	134003863	65	SNP	downstream_gene_variant	MODIFIER	RP11-544A12.4	ENSG00000236986	Transcript	ENST00000588378	antisense
+9	134003863	134003863	65	SNP	downstream_gene_variant	MODIFIER	RP11-544A12.4	ENSG00000236986	Transcript	ENST00000589540	antisense
+9	134003863	134003863	65	SNP	downstream_gene_variant	MODIFIER	RP11-544A12.4	ENSG00000236986	Transcript	ENST00000589667	antisense
+9	134003863	134003863	65	SNP	stop_gained	HIGH	NUP214	8021	Transcript	NM_001318324.2	protein_coding
+9	134003863	134003863	65	SNP	stop_gained	HIGH	NUP214	8021	Transcript	NM_005085.4	protein_coding
+9	135946920	135946920	56	INDEL	frameshift_variant	HIGH	CEL	ENSG00000170835	Transcript	ENST00000351304	protein_coding
+9	135946920	135946920	56	INDEL	frameshift_variant	HIGH	CEL	ENSG00000170835	Transcript	ENST00000372080	protein_coding
+9	135946920	135946920	56	INDEL	frameshift_variant	HIGH	CEL	1056	Transcript	NM_001807.5	protein_coding
+21	10914438	10914438	58	SNP	stop_gained	HIGH	TPTE	ENSG00000166157	Transcript	ENST00000298232	protein_coding
+21	10914438	10914438	58	SNP	stop_gained	HIGH	TPTE	ENSG00000166157	Transcript	ENST00000342420	protein_coding
+21	10914438	10914438	58	SNP	stop_gained	HIGH	TPTE	ENSG00000166157	Transcript	ENST00000361285	protein_coding
+21	10914438	10914438	58	SNP	non_coding_transcript_exon_variant	MODIFIER	TPTE	ENSG00000166157	Transcript	ENST00000415664	processed_transcript
+21	10914438	10914438	58	SNP	non_coding_transcript_exon_variant	MODIFIER	TPTE	ENSG00000166157	Transcript	ENST00000447568	processed_transcript
+21	10914438	10914438	58	SNP	stop_gained	HIGH	TPTE	7179	Transcript	NM_001290224.1	protein_coding
+21	10914438	10914438	58	SNP	stop_gained	HIGH	TPTE	7179	Transcript	NM_199259.3	protein_coding
+21	10914438	10914438	58	SNP	stop_gained	HIGH	TPTE	7179	Transcript	NM_199260.3	protein_coding
+21	10914438	10914438	58	SNP	stop_gained	HIGH	TPTE	7179	Transcript	NM_199261.3	protein_coding
+21	44589920	44589920	66	INDEL	intron_variant	MODIFIER	CRYAA	ENSG00000160202	Transcript	ENST00000291554	protein_coding
+21	44589920	44589920	66	INDEL	upstream_gene_variant	MODIFIER	CRYAA	ENSG00000160202	Transcript	ENST00000398132	protein_coding
+21	44589920	44589920	66	INDEL	frameshift_variant	HIGH	CRYAA	ENSG00000160202	Transcript	ENST00000398133	protein_coding
+21	44589920	44589920	66	INDEL	upstream_gene_variant	MODIFIER	CRYAA	ENSG00000160202	Transcript	ENST00000468016	retained_intron
+21	44589920	44589920	66	INDEL	intron_variant&non_coding_transcript_variant	MODIFIER	CRYAA	ENSG00000160202	Transcript	ENST00000482775	processed_transcript
+21	44589920	44589920	66	INDEL	intron_variant	MODIFIER	CRYAA	1409	Transcript	NM_000394.4	protein_coding
+21	44589920	44589920	66	INDEL	upstream_gene_variant	MODIFIER	CRYAA	1409	Transcript	NM_001363766.1	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF10	ENSG00000187545	Transcript	ENST00000235347	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF4	ENSG00000243073	Transcript	ENST00000235349	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF2	ENSG00000120952	Transcript	ENST00000240189	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	HNRNPCL1	ENSG00000179172	Transcript	ENST00000317869	protein_coding
+1	12907205	12907205	334	OTHER	non_coding_transcript_exon_variant	MODIFIER	HNRNPCP5	ENSG00000179412	Transcript	ENST00000323770	processed_pseudogene
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF7	ENSG00000204510	Transcript	ENST00000330881	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF6	ENSG00000232423	Transcript	ENST00000355096	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF7	ENSG00000204510	Transcript	ENST00000361079	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF6	ENSG00000232423	Transcript	ENST00000376182	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF22	ENSG00000204508	Transcript	ENST00000376187	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF6	ENSG00000232423	Transcript	ENST00000376189	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF6	ENSG00000232423	Transcript	ENST00000376192	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	RNU6-1072P	ENSG00000207434	Transcript	ENST00000384703	snRNA
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF6	ENSG00000232423	Transcript	ENST00000414205	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF6	ENSG00000232423	Transcript	ENST00000415464	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF25	ENSG00000204505	Transcript	ENST00000415919	unprocessed_pseudogene
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	RP11-450I1.2	ENSG00000234064	Transcript	ENST00000418187	unprocessed_pseudogene
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	RP13-221M14.3	ENSG00000229978	Transcript	ENST00000434606	processed_transcript
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	WI2-3308P17.2	ENSG00000239810	Transcript	ENST00000436041	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	RP13-221M14.2	ENSG00000233336	Transcript	ENST00000437631	lincRNA
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	RP13-221M14.3	ENSG00000229978	Transcript	ENST00000448180	transcribed_unprocessed_pseudogene
+1	12907205	12907205	334	OTHER	non_coding_transcript_exon_variant	MODIFIER	HNRNPCP5	ENSG00000179412	Transcript	ENST00000449855	processed_pseudogene
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	RP13-221M14.4	ENSG00000236179	Transcript	ENST00000458709	unprocessed_pseudogene
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	RP11-450I1.4	ENSG00000250894	Transcript	ENST00000504262	unprocessed_pseudogene
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	RP13-221M14.6	ENSG00000250113	Transcript	ENST00000512015	unprocessed_pseudogene
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF23	ENSG00000270601	Transcript	ENST00000605221	unprocessed_pseudogene
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF4	400735	Transcript	NM_001009611.4	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF6	440561	Transcript	NM_001010889.2	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF7	441871	Transcript	NM_001012277.4	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	HNRNPCL1	343069	Transcript	NM_001013631.2	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF10	343071	Transcript	NM_001039361.4	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF18	391003	Transcript	NM_001099850.2	protein_coding
+1	12907205	12907205	334	OTHER	coding_sequence_variant&3_prime_UTR_variant	MODIFIER	HNRNPCL2	440563	Transcript	NM_001136561.3	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF2	65122	Transcript	NM_023014.1	protein_coding
+1	12907205	12907205	334	OTHER	transcript_amplification	HIGH	PRAMEF34P	649324	Transcript	NR_111947.1	transcribed_pseudogene
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492649	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00000921544	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492650	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492651	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492652	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492653	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492654	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00000250294	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492655	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492656	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492657	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00000921557	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492658	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492659	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492660	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492661	
+1	12907205	12907205	334	OTHER	regulatory_region_amplification&regulatory_region_variant	MODIFIER			RegulatoryFeature	ENSR00001492662	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TEAD4_CEBPB_AY_TGACTC40NTCA_NTTRCGYAANNNNNNGGAATGY_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	KLF16_AF_TTGATT20NTA_GCCMCGCCCMC_m1_c4_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	ATF7_AI_TGGGCG30NCGT_NNATGACGTCATNN_m1_c4_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNCACGTG_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	MEIS1_MAX_AT_TATCTG40NTCG_NTGACRNNNNNNCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	GCM1_CEBPB_AX_TGCAGG40NTCG_ATRSGGGNNNNTTRCGYAAN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	GCM2_MAX_AAB_TGCCTG40NTCC_NTRNGGGNNNCACGTG_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_NNCACGTGNNNNNNNNNNRTGCGGGYRN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RGAATGYNNACGTG_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	ETV2_CEBPD_AAA_TGTAGA40NTGT_RSCGGANNTTGCGYAAN_m1_c2	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CLOCK_Z_TGAGAT20NAGA_NACACGTGTN_m1_c3_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_NNCACGTGNNNGCGGGYN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNNCACGTG_m1_c2	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	SRF_W_TGGAAT20NAAT_NNMCCATATAWGGKNN_m2_c3_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	RFX3_SRF_AY_TTACGG40NCGC_NRGYAACNNNNNCCTWWWNNGGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_RTGCGGGNNNNNNNCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	ERF_MAX_AAC_TTAGTC40NTCC_RSCGGAANCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	MAX_Y_TGACCT20NGA_CACGTGNNNNNCACGTG_m1_c3_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TFAP4_MAX_AW_TCCTTG40NGGT_NCAGCTGNNNNNNNCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNNCACGTG_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_NCACGTGNNYAACSGNN_m1_c2	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNCACGTG_m1_c2	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	ATF4_CEBPB_AT_TCCATG40NCAC_NNATGAYGCAAYN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CUX1_SRF_AY_TGAAAT40NCAA_NCCATAYWNGGWNNNNATCRATN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CEBPG_Q_TAGACG20NTA_NTTRCGCAAY_m1_c2_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNCACGTGN_m1_c2	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNNCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	ATF7_AI_TGGGCG30NCGT_NNATGACGTCATNN_m1_c4_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	GATA3_AC_TCATGC20NCG_AGATAANN_m1_c2_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TEAD4_GATA3_AY_TGGGTA40NTGT_NGATAASNNNRGWATGY_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNNCACGTG_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RGAATGYNNACGTG_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_NCACGTGNNYAACSGNN_m1_c2	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	ERF_MAX_AAC_TTAGTC40NTCC_RSCGGAANCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_NNCACGTGNNNGCGGGYN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_NNCACGTGNNNNNNNNNNRTGCGGGYRN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNNCACGTG_m1_c2	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	MEIS1_MAX_AT_TATCTG40NTCG_NTGACRNNNNNNCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNNCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TEAD4_MAX_AY_TGCCTG40NTCC_RCATTCCNNNNNNCACGTG_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CLOCK_Z_TGAGAT20NAGA_NACACGTGTN_m1_c3_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	GCM2_MAX_AAB_TGCCTG40NTCC_NTRNGGGNNNCACGTG_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNCACGTGN_m1_c2	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	MAX_Y_TGACCT20NGA_CACGTGNNNNNCACGTG_m1_c3_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TFAP4_MAX_AW_TCCTTG40NGGT_NCAGCTGNNNNNNNCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	MYBL1_MAX_AX_TCCTTG40NGGT_YAACGGNNNNNNNNNNCACGTG_m1_c2	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	GCM1_MAX_AU_TTAGTC40NTCC_RTGCGGGNNNNNNNCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	TFAP2C_MAX_AY_TTAGTC40NTCC_TNSCCNNNGGSNNNNNNNNNNNNNCACGTGN_m1_c3	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+1	12907205	12907205	334	OTHER	TFBS_amplification&TF_binding_site_variant	MODIFIER			MotifFeature	CTCF_AJ_TAGCGA20NGCT_NGCGCCMYCTAGYGGTN_m2_c4_Cell2013	
+3	75790811	75790814	113	OTHER	frameshift_variant	HIGH	ZNF717	ENSG00000227124	Transcript	ENST00000400845	protein_coding
+3	75790811	75790814	113	OTHER	frameshift_variant	HIGH	ZNF717	ENSG00000227124	Transcript	ENST00000422325	protein_coding
+3	75790811	75790814	113	OTHER	frameshift_variant	HIGH	ZNF717	ENSG00000227124	Transcript	ENST00000468296	protein_coding
+3	75790811	75790814	113	OTHER	5_prime_UTR_variant	MODIFIER	ZNF717	ENSG00000227124	Transcript	ENST00000471541	protein_coding
+3	75790811	75790814	113	OTHER	frameshift_variant	HIGH	ZNF717	ENSG00000227124	Transcript	ENST00000477374	protein_coding
+3	75790811	75790814	113	OTHER	5_prime_UTR_variant	MODIFIER	ZNF717	ENSG00000227124	Transcript	ENST00000478296	protein_coding
+3	75790811	75790814	113	OTHER	non_coding_transcript_exon_variant	MODIFIER	ZNF717	ENSG00000227124	Transcript	ENST00000491507	processed_transcript
+3	75790811	75790814	113	OTHER	downstream_gene_variant	MODIFIER	MIR4273	ENSG00000266396	Transcript	ENST00000582824	miRNA
+3	75790811	75790814	113	OTHER	frameshift_variant	HIGH	ZNF717	100131827	Transcript	NM_001128223.3	protein_coding
+3	75790811	75790814	113	OTHER	frameshift_variant	HIGH	ZNF717	100131827	Transcript	NM_001290208.3	protein_coding
+3	75790811	75790814	113	OTHER	5_prime_UTR_variant	MODIFIER	ZNF717	100131827	Transcript	NM_001290209.3	protein_coding
+3	75790811	75790814	113	OTHER	frameshift_variant	HIGH	ZNF717	100131827	Transcript	NM_001290210.2	protein_coding
+3	75790811	75790814	113	OTHER	frameshift_variant	HIGH	ZNF717	100131827	Transcript	NM_001324026.2	protein_coding
+3	75790811	75790814	113	OTHER	frameshift_variant	HIGH	ZNF717	100131827	Transcript	NM_001324027.1	protein_coding
+3	75790811	75790814	113	OTHER	frameshift_variant	HIGH	ZNF717	100131827	Transcript	NM_001324028.1	protein_coding
+3	75790811	75790814	113	OTHER	downstream_gene_variant	MODIFIER	MIR4273	100422955	Transcript	NR_036235.1	miRNA

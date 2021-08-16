@@ -189,8 +189,10 @@ print(cluster_data.head())
 #print("importances")
 #print(forest_importances)
 
-
 cluster_counts = cluster_data.groupby(['clusters']).sum()
 cluster_counts["amount_members"] = cluster_data.groupby(['clusters']).size()
 print(cluster_counts.head())
 print(cluster_counts.div(cluster_counts.amount_members, axis=0).head())
+
+# We shall also try with R https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html
+# Or python with gOst: https://biit.cs.ut.ee/gprofiler/page/apis
